@@ -1,0 +1,2095 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lernplan HS26//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lernplan HS26
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7f60b6745a43d3315e501c713fac9c44@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261026T083000
+DTEND;TZID=Europe/Zurich:20261026T093000
+SUMMARY:Lernen krecht: Nachholen: Grundlagen & Rechtsordnung (LC S. 19–35
+ )
+DESCRIPTION:Nachholen: Grundlagen & Rechtsordnung (LC S. 19–35)\n\nSo ler
+ nen: Fall lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controll
+ ing. Quizfragen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker 
+ abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6af32da54676aa53d706226c51a0da@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261026T094500
+DTEND;TZID=Europe/Zurich:20261026T104500
+SUMMARY:Lernen krw: Neu aufbauen: Bilanz\, Aktiv/Passiv\, Kontenregeln
+DESCRIPTION:Neu aufbauen: Bilanz\, Aktiv/Passiv\, Kontenregeln\n\nSo lernen
+ : Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigiere
+ n. Jeden Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Track
+ er abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c02e4ddbadcc3e0ce9408a4c162761b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261026T140000
+DTEND;TZID=Europe/Zurich:20261026T150000
+SUMMARY:Lernen infgl: Zahlensysteme: binär ↔ dezimal ↔ hex
+DESCRIPTION:Zahlensysteme: binär ↔ dezimal ↔ hex\n\nSo lernen: Kurzes 
+ Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: I
+ nformatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhake
+ n. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:b447622e5292122e561583d4b670f9be@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261027T083000
+DTEND;TZID=Europe/Zurich:20261027T093000
+SUMMARY:Lernen krecht: Nachholen: Vertragsrecht I+II (S. 36–48)
+DESCRIPTION:Nachholen: Vertragsrecht I+II (S. 36–48)\n\nSo lernen: Fall l
+ ösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfr
+ agen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Be
+ i Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:252ff105f8b270dde1ccaba09b27b58f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261027T094500
+DTEND;TZID=Europe/Zurich:20261027T104500
+SUMMARY:Lernen krw: FP1 Aufgaben 1+2 ohne Lösung neu lösen
+DESCRIPTION:FP1 Aufgaben 1+2 ohne Lösung neu lösen\n\nSo lernen: Aufgaben
+  aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden F
+ ehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken
+ . Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:dfbd7c791bca2f08fb7a244dabedd960@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261027T140000
+DTEND;TZID=Europe/Zurich:20261027T150000
+SUMMARY:Lernen wmt: LE04–06 + LE13 Nutzwertanalyse nachbereiten
+DESCRIPTION:LE04–06 + LE13 Nutzwertanalyse nachbereiten\n\nSo lernen: Met
+ hode an einem eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, dann 
+ formative Prüfung der LE.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:00cff1a438b07f4a5110fd89cc90d61d@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261028T083000
+DTEND;TZID=Europe/Zurich:20261028T093000
+SUMMARY:Lernen infgl: Bit/Byte & Wertebereiche – Übungen
+DESCRIPTION:Bit/Byte & Wertebereiche – Übungen\n\nSo lernen: Kurzes Erkl
+ ärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Infor
+ matik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. B
+ ei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:afae184d699c30bde59879e5c9ee6bb2@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261028T094500
+DTEND;TZID=Europe/Zurich:20261028T104500
+SUMMARY:Lernen kbwl: Bilanz-/Erfolgsanalyse: Kennzahlen rechnen
+DESCRIPTION:Bilanz-/Erfolgsanalyse: Kennzahlen rechnen\n\nSo lernen: Aufgab
+ en/formative Tests lösen\; Begriffe laut in eigenen Worten erklären (kei
+ ne Karteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sc
+ hicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:8460c85e2ac549675ee8d2ad8e337d75@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261028T140000
+DTEND;TZID=Europe/Zurich:20261028T150000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 1–26 (Kap. 1 Einführung\, Kap. 2 Mark
+ etingkonzept)
+DESCRIPTION:333 Fragen Nr. 1–26 (Kap. 1 Einführung\, Kap. 2 Marketingkon
+ zept)\n\nSo lernen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder 
+ stichwortartig selbst formulieren\, erst dann in Teil II vergleichen. Fals
+ che oder unsichere Fragen-Nummern notieren (Fehlerliste) – die kommen im
+  2. Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Trac
+ ker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:dbedbf6de986df436a7ccb26ad4b83e0@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261102T083000
+DTEND;TZID=Europe/Zurich:20261102T093000
+SUMMARY:Lernen krecht: Nachholen: Haftpflicht & Gesellschaftsrecht (S. 49
+ –82)
+DESCRIPTION:Nachholen: Haftpflicht & Gesellschaftsrecht (S. 49–82)\n\nSo 
+ lernen: Fall lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Contr
+ olling. Quizfragen aus dem Unterricht nutzen.\n\nLernziel nachher im Track
+ er abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ca1c5978f0053a35cc99168be025b8c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261102T094500
+DTEND;TZID=Europe/Zurich:20261102T104500
+SUMMARY:Lernen krw: AA7: Rechnungsabgrenzungen & Rückstellungen
+DESCRIPTION:AA7: Rechnungsabgrenzungen & Rückstellungen\n\nSo lernen: Aufg
+ aben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jed
+ en Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abh
+ aken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b097f0e516046811144e06e145edc1@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261102T110000
+DTEND;TZID=Europe/Zurich:20261102T120000
+SUMMARY:Lernen infgl: Subnetting: Video + 5 Aufgaben
+DESCRIPTION:Subnetting: Video + 5 Aufgaben\n\nSo lernen: Kurzes Erklärvide
+ o\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik Z
+ F Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e78dc8bc3b826448352efc830b38571@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261103T083000
+DTEND;TZID=Europe/Zurich:20261103T093000
+SUMMARY:Lernen krecht: Immaterialgüter- & Wettbewerbsrecht (S. 83–128)
+DESCRIPTION:Immaterialgüter- & Wettbewerbsrecht (S. 83–128)\n\nSo lernen
+ : Fall lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling
+ . Quizfragen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abh
+ aken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a7393cbe60b164d49da2de9ed006f5da@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261103T094500
+DTEND;TZID=Europe/Zurich:20261103T104500
+SUMMARY:Lernen krw: Repetition AG/GmbH\, Abschreibungen\, Debitorenverluste
+DESCRIPTION:Repetition AG/GmbH\, Abschreibungen\, Debitorenverluste\n\nSo l
+ ernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korri
+ gieren. Jeden Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im 
+ Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:d3b25c1fb3e23c94354c62b0841abf0f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261103T140000
+DTEND;TZID=Europe/Zurich:20261103T150000
+SUMMARY:Lernen wmt: LE08 Geschäftsprozessmodellierung + formative Prüfung
+DESCRIPTION:LE08 Geschäftsprozessmodellierung + formative Prüfung\n\nSo l
+ ernen: Methode an einem eigenen Beispiel durchspielen (z.B. Foodtruck HERB
+ Y)\, dann formative Prüfung der LE.\n\nLernziel nachher im Tracker abhake
+ n. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:069b894e126a03ccdd670f118dbfaff8@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261104T083000
+DTEND;TZID=Europe/Zurich:20261104T093000
+SUMMARY:Lernen infgl: 1. formative Prüfung vorbereiten/lösen
+DESCRIPTION:1. formative Prüfung vorbereiten/lösen\n\nSo lernen: Kurzes E
+ rklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: In
+ formatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken
+ . Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:cce298425f777405cb1b0f1f133294d2@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261104T094500
+DTEND;TZID=Europe/Zurich:20261104T104500
+SUMMARY:Lernen kbwl: Formativer Test Grundstrategie lösen & korrigieren
+DESCRIPTION:Formativer Test Grundstrategie lösen & korrigieren\n\nSo lerne
+ n: Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Worten erkl
+ ären (keine Karteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Fo
+ odtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:2f0a3954bdecd38d90b753df553f3637@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261104T140000
+DTEND;TZID=Europe/Zurich:20261104T150000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 27–52 (Kap. 3 Analyse\, Teil 1)
+DESCRIPTION:333 Fragen Nr. 27–52 (Kap. 3 Analyse\, Teil 1)\n\nSo lernen: 
+ 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbs
+ t formulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere F
+ ragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder
+ . Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1d79bba3bbd6022d81649257ddc9b5@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261109T083000
+DTEND;TZID=Europe/Zurich:20261109T093000
+SUMMARY:Lernen krecht: SchKG & Prozessrecht (S. 130–153)
+DESCRIPTION:SchKG & Prozessrecht (S. 130–153)\n\nSo lernen: Fall lösen m
+ it OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen au
+ s dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodt
+ ruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:29f4b3b34e9e8eb9c5b84542ae266fc9@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261109T094500
+DTEND;TZID=Europe/Zurich:20261109T104500
+SUMMARY:Lernen krw: AA8: Warenhandel & Kalkulation
+DESCRIPTION:AA8: Warenhandel & Kalkulation\n\nSo lernen: Aufgaben aus dem L
+ eimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in d
+ ie Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3ede49cee77590a3fbb7ba6fae16df6b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261109T140000
+DTEND;TZID=Europe/Zurich:20261109T150000
+SUMMARY:Lernen infgl: 2er-Komplement & Gleitkomma
+DESCRIPTION:2er-Komplement & Gleitkomma\n\nSo lernen: Kurzes Erklärvideo\,
+  dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF A
+ ufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7613169ddeb1da26642a3b6bde398a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261110T083000
+DTEND;TZID=Europe/Zurich:20261110T093000
+SUMMARY:Lernen krw: FP2-Vorbereitung: gemischte Aufgaben AA1–8
+DESCRIPTION:FP2-Vorbereitung: gemischte Aufgaben AA1–8\n\nSo lernen: Aufg
+ aben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jed
+ en Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abh
+ aken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd30d02109fddcdb30bdd010b599293@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261110T094500
+DTEND;TZID=Europe/Zurich:20261110T104500
+SUMMARY:Lernen krecht: Steuer-/Sozialversicherungsrecht & Datenschutz
+DESCRIPTION:Steuer-/Sozialversicherungsrecht & Datenschutz\n\nSo lernen: Fa
+ ll lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Qu
+ izfragen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken
+ . Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0515a4cded2b817df1737dda37e195@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261110T140000
+DTEND;TZID=Europe/Zurich:20261110T150000
+SUMMARY:Lernen wmt: LE09 IST-Aufnahme + formative Prüfung
+DESCRIPTION:LE09 IST-Aufnahme + formative Prüfung\n\nSo lernen: Methode an
+  einem eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, dann formati
+ ve Prüfung der LE.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-
+ Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad46de6040c5c8fe8321eb5b4e87ac7f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261111T083000
+DTEND;TZID=Europe/Zurich:20261111T093000
+SUMMARY:Lernen infgl: Verschlüsselung\, Hash\, Signaturen\, Zertifikate
+DESCRIPTION:Verschlüsselung\, Hash\, Signaturen\, Zertifikate\n\nSo lernen
+ : Kurzes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Ma
+ terial: Informatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Track
+ er abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3692fb25b6ac60ab6c2f8e1c9f7c3d57@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261111T094500
+DTEND;TZID=Europe/Zurich:20261111T104500
+SUMMARY:Lernen kbwl: Banken: Aktiv-\, Passiv-\, Kommissionsgeschäfte
+DESCRIPTION:Banken: Aktiv-\, Passiv-\, Kommissionsgeschäfte\n\nSo lernen: 
+ Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Worten erkläre
+ n (keine Karteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtr
+ uck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:bd40ee90eb63fe7d0fc29d4b948b15ac@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261111T140000
+DTEND;TZID=Europe/Zurich:20261111T150000
+SUMMARY:Lernen beor: Präsentation 30.11.: Thema\, Aufbau\, Quellen
+DESCRIPTION:Präsentation 30.11.: Thema\, Aufbau\, Quellen\n\nSo lernen: Ka
+ pitel der Zusammenfassung durchgehen und mit eigenem Beispiel (Hotelküche
+ /Foodtruck) verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodt
+ ruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae46fcc1f55fc655fc4435474a2e0e0e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261116T083000
+DTEND;TZID=Europe/Zurich:20261116T093000
+SUMMARY:Lernen krw: FP2 Fehleranalyse + AA9 mehrstufige ER
+DESCRIPTION:FP2 Fehleranalyse + AA9 mehrstufige ER\n\nSo lernen: Aufgaben a
+ us dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Feh
+ ler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. 
+ Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f0b196741fb91079c35ab099c12dbc@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261116T094500
+DTEND;TZID=Europe/Zurich:20261116T104500
+SUMMARY:Lernen krecht: Quizfragen bisher + OR-Artikel finden üben
+DESCRIPTION:Quizfragen bisher + OR-Artikel finden üben\n\nSo lernen: Fall 
+ lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizf
+ ragen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. B
+ ei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee74ba690da2e145b539f09fbbf8c17@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261116T140000
+DTEND;TZID=Europe/Zurich:20261116T150000
+SUMMARY:Lernen infgl: OSI-Modell & TCP/IP
+DESCRIPTION:OSI-Modell & TCP/IP\n\nSo lernen: Kurzes Erklärvideo\, dann Au
+ fgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_
+ Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dcf3b55063daa3d3b6c91f11d1f2d74@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261117T083000
+DTEND;TZID=Europe/Zurich:20261117T093000
+SUMMARY:Lernen beor: Präsentation ausarbeiten
+DESCRIPTION:Präsentation ausarbeiten\n\nSo lernen: Kapitel der Zusammenfas
+ sung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) verknüpf
+ en.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block ei
+ nfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:ec091a7a1cb0cde882fdc657df4bd1c3@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261117T094500
+DTEND;TZID=Europe/Zurich:20261117T104500
+SUMMARY:Lernen wmt: LE10 Benchmark\, Reifegrad\, SWOT
+DESCRIPTION:LE10 Benchmark\, Reifegrad\, SWOT\n\nSo lernen: Methode an eine
+ m eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Pr
+ üfung der LE.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e94ffc318e31275ae0496520ab68bce9@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261117T140000
+DTEND;TZID=Europe/Zurich:20261117T150000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 53–77 (Kap. 3 Analyse\, Teil 2)
+DESCRIPTION:333 Fragen Nr. 53–77 (Kap. 3 Analyse\, Teil 2)\n\nSo lernen: 
+ 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbs
+ t formulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere F
+ ragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder
+ . Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7601d354b9aa1de866975177ae485807@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261118T083000
+DTEND;TZID=Europe/Zurich:20261118T093000
+SUMMARY:Lernen infgl: Subnetting vertiefen (10 Aufgaben)
+DESCRIPTION:Subnetting vertiefen (10 Aufgaben)\n\nSo lernen: Kurzes Erklär
+ video\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informat
+ ik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei 
+ Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7740f885302d432ca6c66c8f4033f45b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261118T094500
+DTEND;TZID=Europe/Zurich:20261118T104500
+SUMMARY:Lernen kbwl: Wertpapiere & Börse (Vorbereitung 19.11.)
+DESCRIPTION:Wertpapiere & Börse (Vorbereitung 19.11.)\n\nSo lernen: Aufgab
+ en/formative Tests lösen\; Begriffe laut in eigenen Worten erklären (kei
+ ne Karteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sc
+ hicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:df17235373453e978524828a7265b2da@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261118T140000
+DTEND;TZID=Europe/Zurich:20261118T150000
+SUMMARY:Lernen Flex: Flex-Block
+DESCRIPTION:Flex-Block\n\nSo lernen: Flex-Block: Fach mit dem grössten Rü
+ ckstand laut Tracker (Empfehlung oben im Tracker).\n\nLernziel nachher im 
+ Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:5e0a2470e41653e1c316ad1abc26969b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261123T173000
+DTEND;TZID=Europe/Zurich:20261123T183000
+SUMMARY:Lernen beor: Präsentation: Folien fertigstellen
+DESCRIPTION:Präsentation: Folien fertigstellen\n\nSo lernen: Kapitel der Z
+ usammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck)
+  verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schich
+ t Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9895bc5dc5f2f1858132ae78f6f2310e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261124T173000
+DTEND;TZID=Europe/Zurich:20261124T183000
+SUMMARY:Lernen beor: Präsentation proben (10–15 Min.)
+DESCRIPTION:Präsentation proben (10–15 Min.)\n\nSo lernen: Kapitel der Z
+ usammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck)
+  verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schich
+ t Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c687e0535f2773950b4877ce7341515@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261125T173000
+DTEND;TZID=Europe/Zurich:20261125T183000
+SUMMARY:Lernen infgl: Vortrag Datenbanken: Aufteilung & Inhalt mit dem Team
+DESCRIPTION:Vortrag Datenbanken: Aufteilung & Inhalt mit dem Team\n\nSo ler
+ nen: Kurzes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt.
+  Material: Informatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tr
+ acker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb94b2baa49614488a4e6d867a43705@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261130T083000
+DTEND;TZID=Europe/Zurich:20261130T093000
+SUMMARY:Lernen beor: Letzter Durchlauf Präsentation (heute!)
+DESCRIPTION:Letzter Durchlauf Präsentation (heute!)\n\nSo lernen: Kapitel 
+ der Zusammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodt
+ ruck) verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-S
+ chicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d44a6c444a855bed1093a9d1ca84e6@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261130T094500
+DTEND;TZID=Europe/Zurich:20261130T104500
+SUMMARY:Lernen krw: AA10: Geldflussrechnung 1 nachbereiten
+DESCRIPTION:AA10: Geldflussrechnung 1 nachbereiten\n\nSo lernen: Aufgaben a
+ us dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Feh
+ ler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. 
+ Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:69006720285f33447eefd77bdda683d8@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261130T140000
+DTEND;TZID=Europe/Zurich:20261130T150000
+SUMMARY:Lernen krecht: Legal Audit & Legal Risk Management (S. 196–298)
+DESCRIPTION:Legal Audit & Legal Risk Management (S. 196–298)\n\nSo lernen
+ : Fall lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling
+ . Quizfragen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abh
+ aken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:6473a1251da0329228491787934d4756@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261201T083000
+DTEND;TZID=Europe/Zurich:20261201T093000
+SUMMARY:Lernen infgl: Vortrag Datenbanken: Folien + Normalisierung
+DESCRIPTION:Vortrag Datenbanken: Folien + Normalisierung\n\nSo lernen: Kurz
+ es Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material
+ : Informatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abh
+ aken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f5594385cba20075a0da89f342da9c7@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261201T094500
+DTEND;TZID=Europe/Zurich:20261201T104500
+SUMMARY:Lernen krw: Geldflussrechnung üben
+DESCRIPTION:Geldflussrechnung üben\n\nSo lernen: Aufgaben aus dem Leimgrub
+ er zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehl
+ erliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-S
+ chicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb4e867617da7ca04e16314eb6b8ecd7@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261201T140000
+DTEND;TZID=Europe/Zurich:20261201T150000
+SUMMARY:Lernen wmt: LE11/12/15 Kreativität\, Morph. Kasten\, Szenarien
+DESCRIPTION:LE11/12/15 Kreativität\, Morph. Kasten\, Szenarien\n\nSo lerne
+ n: Methode an einem eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\,
+  dann formative Prüfung der LE.\n\nLernziel nachher im Tracker abhaken. B
+ ei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9356f667f9c085f6cbf20b0b3c6bb20f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261202T083000
+DTEND;TZID=Europe/Zurich:20261202T093000
+SUMMARY:Lernen infgl: HTML & CSS: kleine eigene Seite bauen
+DESCRIPTION:HTML & CSS: kleine eigene Seite bauen\n\nSo lernen: Kurzes Erkl
+ ärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Infor
+ matik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. B
+ ei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:52ffe5a42ca5263e4657a891c101e4a5@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261202T094500
+DTEND;TZID=Europe/Zurich:20261202T104500
+SUMMARY:Lernen kbwl: Versicherungen (Vorbereitung 03.12.)
+DESCRIPTION:Versicherungen (Vorbereitung 03.12.)\n\nSo lernen: Aufgaben/for
+ mative Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Kar
+ teikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht 
+ Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:40fc0bb898b474460456d0cb49d9b28f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261202T140000
+DTEND;TZID=Europe/Zurich:20261202T150000
+SUMMARY:Lernen mkt: Marketingplan: eigenen Teil fertigstellen
+DESCRIPTION:Marketingplan: eigenen Teil fertigstellen\n\nSo lernen: 333 Fra
+ gen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbst formu
+ lieren\, erst dann in Teil II vergleichen. Falsche oder unsichere Fragen-N
+ ummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder. Ca. 3
+ 0 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-
+ Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:99cb39fc5fa8e91c52583a8282b727e6@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261207T083000
+DTEND;TZID=Europe/Zurich:20261207T093000
+SUMMARY:Lernen krecht: Fallbearbeitung 2 Kalt AG: eigener Teil
+DESCRIPTION:Fallbearbeitung 2 Kalt AG: eigener Teil\n\nSo lernen: Fall lös
+ en mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfrage
+ n aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:171d26b312af502246228f41ad36196d@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261207T094500
+DTEND;TZID=Europe/Zurich:20261207T104500
+SUMMARY:Lernen krw: AA11: Geldflussrechnung 2
+DESCRIPTION:AA11: Geldflussrechnung 2\n\nSo lernen: Aufgaben aus dem Leimgr
+ uber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fe
+ hlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck
+ -Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:1384e717138cd9047ce57167ab374bda@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261207T140000
+DTEND;TZID=Europe/Zurich:20261207T150000
+SUMMARY:Lernen mkt: Marketingplan Schlusskontrolle (Abgabe Sa 12.12.\, 12:0
+ 0)
+DESCRIPTION:Marketingplan Schlusskontrolle (Abgabe Sa 12.12.\, 12:00)\n\nSo
+  lernen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortar
+ tig selbst formulieren\, erst dann in Teil II vergleichen. Falsche oder un
+ sichere Fragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchga
+ ng wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken
+ . Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:1736c30266125960e3e189db6ff9bf35@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261208T083000
+DTEND;TZID=Europe/Zurich:20261208T093000
+SUMMARY:Lernen infgl: Vortrag Datenbanken proben
+DESCRIPTION:Vortrag Datenbanken proben\n\nSo lernen: Kurzes Erklärvideo\, 
+ dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Au
+ fgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruc
+ k-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:999fafe02dc9dc6989c280d1d102654a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261208T094500
+DTEND;TZID=Europe/Zurich:20261208T104500
+SUMMARY:Lernen krw: AA12: Buchführungsvorschriften & stille Reserven
+DESCRIPTION:AA12: Buchführungsvorschriften & stille Reserven\n\nSo lernen:
+  Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren
+ . Jeden Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracke
+ r abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7621eba6939065a2f175992ee85a232a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261208T140000
+DTEND;TZID=Europe/Zurich:20261208T150000
+SUMMARY:Lernen wmt: LE17 ABC-Analyse + LE19 Wertstrom vorbereiten
+DESCRIPTION:LE17 ABC-Analyse + LE19 Wertstrom vorbereiten\n\nSo lernen: Met
+ hode an einem eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, dann 
+ formative Prüfung der LE.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3069672006b2ed345353b064025b6555@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261209T083000
+DTEND;TZID=Europe/Zurich:20261209T093000
+SUMMARY:Lernen infgl: Vortrag Datenbanken: letzter Check (heute Abend)
+DESCRIPTION:Vortrag Datenbanken: letzter Check (heute Abend)\n\nSo lernen: 
+ Kurzes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Mate
+ rial: Informatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker
+  abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:62bbf0fef6fe6da49f05263e1a654cb0@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261209T094500
+DTEND;TZID=Europe/Zurich:20261209T104500
+SUMMARY:Lernen kbwl: Versicherungen & Risk Management
+DESCRIPTION:Versicherungen & Risk Management\n\nSo lernen: Aufgaben/formati
+ ve Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Karteik
+ arten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bloc
+ k einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc3518abd81c6523d3594c8b1d7dd87@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261209T140000
+DTEND;TZID=Europe/Zurich:20261209T150000
+SUMMARY:Lernen krecht: Präsentation Kalt AG vorbereiten
+DESCRIPTION:Präsentation Kalt AG vorbereiten\n\nSo lernen: Fall lösen mit
+  OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus 
+ dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a095f9e680c98200a4027833b4d0dc48@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261214T083000
+DTEND;TZID=Europe/Zurich:20261214T093000
+SUMMARY:Lernen beor: Probeprüfung beor vorbereiten
+DESCRIPTION:Probeprüfung beor vorbereiten\n\nSo lernen: Kapitel der Zusamm
+ enfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) verk
+ nüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:93104997931474ff4ba98e824367081d@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261214T094500
+DTEND;TZID=Europe/Zurich:20261214T104500
+SUMMARY:Lernen mkt: Abschlusspräsentation Marketingplan proben
+DESCRIPTION:Abschlusspräsentation Marketingplan proben\n\nSo lernen: 333 F
+ ragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbst for
+ mulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere Fragen
+ -Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder. Ca.
+  30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruc
+ k-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7069f661d2f7bced6bbf6eead98fab9e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261214T140000
+DTEND;TZID=Europe/Zurich:20261214T150000
+SUMMARY:Lernen krecht: Präsentation Kalt AG (17.12.) proben
+DESCRIPTION:Präsentation Kalt AG (17.12.) proben\n\nSo lernen: Fall lösen
+  mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen 
+ aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a521079c5272bf8da22901c56fa8d58a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261215T083000
+DTEND;TZID=Europe/Zurich:20261215T093000
+SUMMARY:Lernen krw: FP3-Vorbereitung: gemischte Serie
+DESCRIPTION:FP3-Vorbereitung: gemischte Serie\n\nSo lernen: Aufgaben aus de
+ m Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler i
+ n die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e01b5e4ea3153017cf2c5012367b6a81@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261215T094500
+DTEND;TZID=Europe/Zurich:20261215T104500
+SUMMARY:Lernen wmt: Formative Prüfung wmt lösen (Durchsprache heute)
+DESCRIPTION:Formative Prüfung wmt lösen (Durchsprache heute)\n\nSo lernen
+ : Methode an einem eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, 
+ dann formative Prüfung der LE.\n\nLernziel nachher im Tracker abhaken. Be
+ i Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef72d185e9273b0c9059a0eb56a47ad1@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261215T140000
+DTEND;TZID=Europe/Zurich:20261215T150000
+SUMMARY:Lernen infgl: Struktogramme
+DESCRIPTION:Struktogramme\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgaben
+  rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen_T
+ hi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:09d7884d17dafaf85d3fdc3b7a57fc2a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261216T083000
+DTEND;TZID=Europe/Zurich:20261216T093000
+SUMMARY:Lernen infgl: 2. formative Prüfung vorbereiten
+DESCRIPTION:2. formative Prüfung vorbereiten\n\nSo lernen: Kurzes Erklärv
+ ideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informati
+ k ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7b80a4746b7334dbb8465366fefce908@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261216T094500
+DTEND;TZID=Europe/Zurich:20261216T104500
+SUMMARY:Lernen kbwl: Steuern: Einkommens-/Vermögenssteuer rechnen
+DESCRIPTION:Steuern: Einkommens-/Vermögenssteuer rechnen\n\nSo lernen: Auf
+ gaben/formative Tests lösen\; Begriffe laut in eigenen Worten erklären (
+ keine Karteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck
+ -Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:afee202cede53894ca005afa14e7619b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261216T140000
+DTEND;TZID=Europe/Zurich:20261216T150000
+SUMMARY:Lernen krw: FP3: Schwachstellen aus Fehlerliste
+DESCRIPTION:FP3: Schwachstellen aus Fehlerliste\n\nSo lernen: Aufgaben aus 
+ dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler
+  in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei
+  Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea3e86926fb86ee8bbf783d52d43e20@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261221T083000
+DTEND;TZID=Europe/Zurich:20261221T093000
+SUMMARY:Lernen krw: Serie: Bilanz & Buchungssätze Grundlagen
+DESCRIPTION:Serie: Bilanz & Buchungssätze Grundlagen\n\nSo lernen: Aufgabe
+ n aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden 
+ Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhake
+ n. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:81137ed82e6851384fcfd013f19c4fcb@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261221T094500
+DTEND;TZID=Europe/Zurich:20261221T104500
+SUMMARY:Lernen krw: Einzelunternehmung & AG/GmbH-Abschluss
+DESCRIPTION:Einzelunternehmung & AG/GmbH-Abschluss\n\nSo lernen: Aufgaben a
+ us dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Feh
+ ler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. 
+ Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:11b395b9c72bbd2d2c39f2fb48f58174@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261221T110000
+DTEND;TZID=Europe/Zurich:20261221T120000
+SUMMARY:Lernen krecht: Vertragsrecht-Fälle mit OR
+DESCRIPTION:Vertragsrecht-Fälle mit OR\n\nSo lernen: Fall lösen mit OR/ZG
+ B in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Un
+ terricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sch
+ icht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2f017227ee6c40e0f338c1ed6971864@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261221T133000
+DTEND;TZID=Europe/Zurich:20261221T143000
+SUMMARY:Lernen infgl: Zahlensysteme-Serie
+DESCRIPTION:Zahlensysteme-Serie\n\nSo lernen: Kurzes Erklärvideo\, dann Au
+ fgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_
+ Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:121ebc7dc7cac7f0a463cabc96ba1dbe@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261221T144500
+DTEND;TZID=Europe/Zurich:20261221T154500
+SUMMARY:Lernen mkt: 333 Fragen Nr. 78–107 (Kap. 4 Marktforschung)
+DESCRIPTION:333 Fragen Nr. 78–107 (Kap. 4 Marktforschung)\n\nSo lernen: 3
+ 33 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbst
+  formulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere Fr
+ agen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder.
+  Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d402dc72098daf72bc3ad383890e67@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T083000
+DTEND;TZID=Europe/Zurich:20261222T093000
+SUMMARY:Lernen infgl: Subnetting-Serie
+DESCRIPTION:Subnetting-Serie\n\nSo lernen: Kurzes Erklärvideo\, dann Aufga
+ ben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Ale
+ n_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht 
+ Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:ff542ac8035dd682748e0fdc7b716578@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T094500
+DTEND;TZID=Europe/Zurich:20261222T104500
+SUMMARY:Lernen infgl: OSI & TCP/IP
+DESCRIPTION:OSI & TCP/IP\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgaben 
+ rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen_Th
+ i + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bloc
+ k einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:01c5bd40dc94813118cb2f85cc2d4f63@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T110000
+DTEND;TZID=Europe/Zurich:20261222T120000
+SUMMARY:Lernen krecht: Haftpflicht & Gesellschaftsrecht
+DESCRIPTION:Haftpflicht & Gesellschaftsrecht\n\nSo lernen: Fall lösen mit 
+ OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus d
+ em Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruc
+ k-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:538d1c166d61222bbfbdc04c715af0af@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T133000
+DTEND;TZID=Europe/Zurich:20261222T143000
+SUMMARY:Lernen krw: Abschreibungen & Debitorenverluste
+DESCRIPTION:Abschreibungen & Debitorenverluste\n\nSo lernen: Aufgaben aus d
+ em Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler 
+ in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei 
+ Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:6aaf07e730bad9f145aef4680a91b433@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T144500
+DTEND;TZID=Europe/Zurich:20261222T154500
+SUMMARY:Lernen wmt: Repetition LE02–06
+DESCRIPTION:Repetition LE02–06\n\nSo lernen: Methode an einem eigenen Bei
+ spiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE
+ .\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einf
+ ach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:151c6cc3c04e66401909aae1749dfb38@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T160000
+DTEND;TZID=Europe/Zurich:20261222T170000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 108–138 (Kap. 5 Ziele\, Kap. 6 Strateg
+ ien Teil 1)
+DESCRIPTION:333 Fragen Nr. 108–138 (Kap. 5 Ziele\, Kap. 6 Strategien Teil
+  1)\n\nSo lernen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder st
+ ichwortartig selbst formulieren\, erst dann in Teil II vergleichen. Falsch
+ e oder unsichere Fragen-Nummern notieren (Fehlerliste) – die kommen im 2
+ . Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracke
+ r abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:34ce98f5a941aa791a8896f3aa1ea246@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261223T083000
+DTEND;TZID=Europe/Zurich:20261223T093000
+SUMMARY:Lernen krecht: Immaterialgüter- & Wettbewerbsrecht
+DESCRIPTION:Immaterialgüter- & Wettbewerbsrecht\n\nSo lernen: Fall lösen 
+ mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen a
+ us dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4ff6a9182a780db87da272ae077ea0@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261223T094500
+DTEND;TZID=Europe/Zurich:20261223T104500
+SUMMARY:Lernen krecht: SchKG & Verfahrensrecht
+DESCRIPTION:SchKG & Verfahrensrecht\n\nSo lernen: Fall lösen mit OR/ZGB in
+  der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unterr
+ icht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht
+  Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a13e3a8172a968c8b7a3e8b97e998cd6@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261223T110000
+DTEND;TZID=Europe/Zurich:20261223T120000
+SUMMARY:Lernen krw: Abgrenzungen & Rückstellungen
+DESCRIPTION:Abgrenzungen & Rückstellungen\n\nSo lernen: Aufgaben aus dem L
+ eimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in d
+ ie Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b74ccb67387af95d312b48b2ce13a4@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261223T133000
+DTEND;TZID=Europe/Zurich:20261223T143000
+SUMMARY:Lernen kbwl: Unternehmen\, Modell\, Strategie
+DESCRIPTION:Unternehmen\, Modell\, Strategie\n\nSo lernen: Aufgaben/formati
+ ve Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Karteik
+ arten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bloc
+ k einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:f3994edbf9ce84145ff5a002d714ac0b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261223T144500
+DTEND;TZID=Europe/Zurich:20261223T154500
+SUMMARY:Lernen mkt: 333 Fragen Nr. 139–170 (Kap. 6 Strategien Teil 2\, Ka
+ p. 7 Product Teil 1)
+DESCRIPTION:333 Fragen Nr. 139–170 (Kap. 6 Strategien Teil 2\, Kap. 7 Pro
+ duct Teil 1)\n\nSo lernen: 333 Fragen: Frage in Teil I lesen\, Antwort lau
+ t oder stichwortartig selbst formulieren\, erst dann in Teil II vergleiche
+ n. Falsche oder unsichere Fragen-Nummern notieren (Fehlerliste) – die ko
+ mmen im 2. Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher 
+ im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:95c3c0c614a7a53dc3b6ba72a9c34f67@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261228T083000
+DTEND;TZID=Europe/Zurich:20261228T093000
+SUMMARY:Lernen krw: Warenhandel & Kalkulation
+DESCRIPTION:Warenhandel & Kalkulation\n\nSo lernen: Aufgaben aus dem Leimgr
+ uber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fe
+ hlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck
+ -Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:66326c1d61dbe709ee8b1c7191c3f307@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261228T094500
+DTEND;TZID=Europe/Zurich:20261228T104500
+SUMMARY:Lernen krw: Mehrstufige Erfolgsrechnung
+DESCRIPTION:Mehrstufige Erfolgsrechnung\n\nSo lernen: Aufgaben aus dem Leim
+ gruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die 
+ Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7979790695f9b8ab2b28f1e27b060666@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261228T110000
+DTEND;TZID=Europe/Zurich:20261228T120000
+SUMMARY:Lernen infgl: Verschlüsselung & Zertifikate
+DESCRIPTION:Verschlüsselung & Zertifikate\n\nSo lernen: Kurzes Erklärvide
+ o\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik Z
+ F Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e25364572ef5edc8d948d32733c60ded@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261228T133000
+DTEND;TZID=Europe/Zurich:20261228T143000
+SUMMARY:Lernen krecht: Steuer- & Sozialversicherungsrecht
+DESCRIPTION:Steuer- & Sozialversicherungsrecht\n\nSo lernen: Fall lösen mi
+ t OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus
+  dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtr
+ uck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:92dc79cfae48eeb4a3c5d83e6cadd05f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261228T144500
+DTEND;TZID=Europe/Zurich:20261228T154500
+SUMMARY:Lernen beor: Organisation\, Führung\, Absatz\, Entwicklung
+DESCRIPTION:Organisation\, Führung\, Absatz\, Entwicklung\n\nSo lernen: Ka
+ pitel der Zusammenfassung durchgehen und mit eigenem Beispiel (Hotelküche
+ /Foodtruck) verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodt
+ ruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd13cd8eeaab3c674607bd2321a8835@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T083000
+DTEND;TZID=Europe/Zurich:20261229T093000
+SUMMARY:Lernen infgl: Codes\, Parity\, Gleitkomma
+DESCRIPTION:Codes\, Parity\, Gleitkomma\n\nSo lernen: Kurzes Erklärvideo\,
+  dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF A
+ ufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:70f49089e64aa2cfe677fb209709a18e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T094500
+DTEND;TZID=Europe/Zurich:20261229T104500
+SUMMARY:Lernen infgl: Hardware & Software
+DESCRIPTION:Hardware & Software\n\nSo lernen: Kurzes Erklärvideo\, dann Au
+ fgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_
+ Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e79bfb8834da093c30b7872bbfee08e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T110000
+DTEND;TZID=Europe/Zurich:20261229T120000
+SUMMARY:Lernen krecht: Datenschutz & Internetstrafrecht
+DESCRIPTION:Datenschutz & Internetstrafrecht\n\nSo lernen: Fall lösen mit 
+ OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus d
+ em Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruc
+ k-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a619ffb553246ce62be1888eb87480b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T133000
+DTEND;TZID=Europe/Zurich:20261229T143000
+SUMMARY:Lernen kbwl: Kennzahlen Bilanz-/Erfolgsanalyse
+DESCRIPTION:Kennzahlen Bilanz-/Erfolgsanalyse\n\nSo lernen: Aufgaben/format
+ ive Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Kartei
+ karten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:047f5bdc14d1f7a575878a88a4a03596@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T144500
+DTEND;TZID=Europe/Zurich:20261229T154500
+SUMMARY:Lernen wmt: Repetition LE08–10
+DESCRIPTION:Repetition LE08–10\n\nSo lernen: Methode an einem eigenen Bei
+ spiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE
+ .\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einf
+ ach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:fc63857995b03886d8c9679a8e2bbc6c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T160000
+DTEND;TZID=Europe/Zurich:20261229T170000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 171–200 (Kap. 7 Product Teil 2\, Kap. 
+ 8 Price Teil 1)
+DESCRIPTION:333 Fragen Nr. 171–200 (Kap. 7 Product Teil 2\, Kap. 8 Price 
+ Teil 1)\n\nSo lernen: 333 Fragen: Frage in Teil I lesen\, Antwort laut ode
+ r stichwortartig selbst formulieren\, erst dann in Teil II vergleichen. Fa
+ lsche oder unsichere Fragen-Nummern notieren (Fehlerliste) – die kommen 
+ im 2. Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tr
+ acker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a433d98c9dd7b850c1e1c65ab8517854@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261230T083000
+DTEND;TZID=Europe/Zurich:20261230T093000
+SUMMARY:Lernen krecht: Legal Audit & Legal Risk Management
+DESCRIPTION:Legal Audit & Legal Risk Management\n\nSo lernen: Fall lösen m
+ it OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen au
+ s dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodt
+ ruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:159492930b5d2ca2317c3e058a3f4551@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261230T094500
+DTEND;TZID=Europe/Zurich:20261230T104500
+SUMMARY:Lernen krw: Geldflussrechnung
+DESCRIPTION:Geldflussrechnung\n\nSo lernen: Aufgaben aus dem Leimgruber zue
+ rst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerlist
+ e schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht
+  Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:1a14305c8541de142015613ecb9107dc@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261230T110000
+DTEND;TZID=Europe/Zurich:20261230T120000
+SUMMARY:Lernen infgl: Router\, Switch\, Routing
+DESCRIPTION:Router\, Switch\, Routing\n\nSo lernen: Kurzes Erklärvideo\, d
+ ann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Auf
+ gaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck
+ -Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a94623f81db9eb51c1037e81ee01605@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261230T133000
+DTEND;TZID=Europe/Zurich:20261230T143000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 201–234 (Kap. 8 Price Teil 2\, Kap. 9 
+ Place)
+DESCRIPTION:333 Fragen Nr. 201–234 (Kap. 8 Price Teil 2\, Kap. 9 Place)\n
+ \nSo lernen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwo
+ rtartig selbst formulieren\, erst dann in Teil II vergleichen. Falsche ode
+ r unsichere Fragen-Nummern notieren (Fehlerliste) – die kommen im 2. Dur
+ chgang wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abh
+ aken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:18bf7cf2dfce0cec0aee5ee7d01a4052@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261230T144500
+DTEND;TZID=Europe/Zurich:20261230T154500
+SUMMARY:Lernen Flex: Flex-Block
+DESCRIPTION:Flex-Block\n\nSo lernen: Flex-Block: Fach mit dem grössten Rü
+ ckstand laut Tracker (Empfehlung oben im Tracker).\n\nLernziel nachher im 
+ Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb146eb2aedfc644627efdc9b9ba55f9@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270104T083000
+DTEND;TZID=Europe/Zurich:20270104T093000
+SUMMARY:Lernen krw: Geldflussrechnung vertiefen
+DESCRIPTION:Geldflussrechnung vertiefen\n\nSo lernen: Aufgaben aus dem Leim
+ gruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die 
+ Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:f755a2f3fd7747c2bfdcd0fb7148a8e7@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270104T094500
+DTEND;TZID=Europe/Zurich:20270104T104500
+SUMMARY:Lernen krw: Buchführungsvorschriften & stille Reserven
+DESCRIPTION:Buchführungsvorschriften & stille Reserven\n\nSo lernen: Aufga
+ ben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jede
+ n Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abha
+ ken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:878fceba0168109796852d9002d1f8b3@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270104T110000
+DTEND;TZID=Europe/Zurich:20270104T120000
+SUMMARY:Lernen kbwl: Banken\, Wertpapiere\, Börse
+DESCRIPTION:Banken\, Wertpapiere\, Börse\n\nSo lernen: Aufgaben/formative 
+ Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikart
+ en).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block e
+ infach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:f36f08cfe83d314759b0deeddeb013ec@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270104T133000
+DTEND;TZID=Europe/Zurich:20270104T143000
+SUMMARY:Lernen infgl: HTML\, CSS\, http
+DESCRIPTION:HTML\, CSS\, http\n\nSo lernen: Kurzes Erklärvideo\, dann Aufg
+ aben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Al
+ en_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht
+  Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f23f72238d47fc2248d34bf67d21109@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270104T144500
+DTEND;TZID=Europe/Zurich:20270104T154500
+SUMMARY:Lernen krecht: Fälle: Vertrag & Haftpflicht wiederholen
+DESCRIPTION:Fälle: Vertrag & Haftpflicht wiederholen\n\nSo lernen: Fall l
+ ösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfr
+ agen aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Be
+ i Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb02b779be63007737189ed0f8703c9@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270105T083000
+DTEND;TZID=Europe/Zurich:20270105T093000
+SUMMARY:Lernen krw: Formative Prüfungen 1–3 nochmals lösen
+DESCRIPTION:Formative Prüfungen 1–3 nochmals lösen\n\nSo lernen: Aufgab
+ en aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden
+  Fehler in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhak
+ en. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:822e52df9ae59cafb3a566cb04e1011a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270105T094500
+DTEND;TZID=Europe/Zurich:20270105T104500
+SUMMARY:Lernen kbwl: Versicherungen
+DESCRIPTION:Versicherungen\n\nSo lernen: Aufgaben/formative Tests lösen\; 
+ Begriffe laut in eigenen Worten erklären (keine Karteikarten).\n\nLernzie
+ l nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschie
+ ben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3e9894e772b7bb7e4ba3f5fa183687fc@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270105T110000
+DTEND;TZID=Europe/Zurich:20270105T120000
+SUMMARY:Lernen infgl: Datenbanken\, Datenschutz\, Struktogramme
+DESCRIPTION:Datenbanken\, Datenschutz\, Struktogramme\n\nSo lernen: Kurzes 
+ Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: I
+ nformatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhake
+ n. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:719a5412572070fbf3621f375f78165e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270105T133000
+DTEND;TZID=Europe/Zurich:20270105T143000
+SUMMARY:Lernen krecht: Fälle: Gesellschaft & IGR
+DESCRIPTION:Fälle: Gesellschaft & IGR\n\nSo lernen: Fall lösen mit OR/ZGB
+  in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unt
+ erricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schi
+ cht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:282414d76dcaeafa28f15054d87238b0@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270105T144500
+DTEND;TZID=Europe/Zurich:20270105T154500
+SUMMARY:Lernen mkt: 333 Fragen Nr. 235–266 (Kap. 10 Promotion\, Teil 1)
+DESCRIPTION:333 Fragen Nr. 235–266 (Kap. 10 Promotion\, Teil 1)\n\nSo ler
+ nen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig 
+ selbst formulieren\, erst dann in Teil II vergleichen. Falsche oder unsich
+ ere Fragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang w
+ ieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Be
+ i Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:d51221f1397873c0c87df1fb489487dc@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270106T083000
+DTEND;TZID=Europe/Zurich:20270106T093000
+SUMMARY:Lernen krw: FP4 / Gesamtserie 1
+DESCRIPTION:FP4 / Gesamtserie 1\n\nSo lernen: Aufgaben aus dem Leimgruber z
+ uerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerli
+ ste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a6429c1d51488887e1cda842b936a4@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270106T094500
+DTEND;TZID=Europe/Zurich:20270106T104500
+SUMMARY:Lernen krw: Fehleranalyse Gesamtserie 1
+DESCRIPTION:Fehleranalyse Gesamtserie 1\n\nSo lernen: Aufgaben aus dem Leim
+ gruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die 
+ Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3a1cc8f2d0d2f94282117013408702@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270106T110000
+DTEND;TZID=Europe/Zurich:20270106T120000
+SUMMARY:Lernen infgl: Subnetting auf Prüfungsniveau
+DESCRIPTION:Subnetting auf Prüfungsniveau\n\nSo lernen: Kurzes Erklärvide
+ o\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik Z
+ F Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0270975a4e2f0903304405dc719687a0@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270106T133000
+DTEND;TZID=Europe/Zurich:20270106T143000
+SUMMARY:Lernen wmt: Repetition LE11–19
+DESCRIPTION:Repetition LE11–19\n\nSo lernen: Methode an einem eigenen Bei
+ spiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE
+ .\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einf
+ ach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a43efe6c7f7006c2938314908fe8da05@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270106T144500
+DTEND;TZID=Europe/Zurich:20270106T154500
+SUMMARY:Lernen beor: Beschaffung\, Fertigung\, Logistik
+DESCRIPTION:Beschaffung\, Fertigung\, Logistik\n\nSo lernen: Kapitel der Zu
+ sammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) 
+ verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht
+  Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc18b4dbad16b3659631c6be8a5de0c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270106T160000
+DTEND;TZID=Europe/Zurich:20270106T170000
+SUMMARY:Lernen mkt: 333 Fragen Nr. 267–297 (Kap. 10 Promotion\, Teil 2)
+DESCRIPTION:333 Fragen Nr. 267–297 (Kap. 10 Promotion\, Teil 2)\n\nSo ler
+ nen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig 
+ selbst formulieren\, erst dann in Teil II vergleichen. Falsche oder unsich
+ ere Fragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang w
+ ieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Be
+ i Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:944b419836cbf766458bf8ec90ed1a15@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270107T083000
+DTEND;TZID=Europe/Zurich:20270107T093000
+SUMMARY:Lernen kbwl: Steuern rechnen
+DESCRIPTION:Steuern rechnen\n\nSo lernen: Aufgaben/formative Tests lösen\;
+  Begriffe laut in eigenen Worten erklären (keine Karteikarten).\n\nLernzi
+ el nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschi
+ eben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e699b73709074e268455c82452158326@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270107T094500
+DTEND;TZID=Europe/Zurich:20270107T104500
+SUMMARY:Lernen kbwl: Gründung + Begriffsliste
+DESCRIPTION:Gründung + Begriffsliste\n\nSo lernen: Aufgaben/formative Test
+ s lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten).
+ \n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfa
+ ch verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7faeecafc0f70f9d02576e95795c8c5@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270107T110000
+DTEND;TZID=Europe/Zurich:20270107T120000
+SUMMARY:Lernen krecht: Fälle: SchKG\, Steuern\, Datenschutz
+DESCRIPTION:Fälle: SchKG\, Steuern\, Datenschutz\n\nSo lernen: Fall lösen
+  mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen 
+ aus dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3da8f5a269f85c9db460f2e60a4825@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270107T133000
+DTEND;TZID=Europe/Zurich:20270107T143000
+SUMMARY:Lernen infgl: Zahlensysteme 2. Runde
+DESCRIPTION:Zahlensysteme 2. Runde\n\nSo lernen: Kurzes Erklärvideo\, dann
+  Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgab
+ en_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sc
+ hicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:40a5e493f60bd83768a2e64c8690b290@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270107T144500
+DTEND;TZID=Europe/Zurich:20270107T154500
+SUMMARY:Lernen mkt: 333 Fragen Nr. 298–333 (Kap. 11–14: erw. Mix\, Budg
+ et\, Umsetzung\, Kontrolle)
+DESCRIPTION:333 Fragen Nr. 298–333 (Kap. 11–14: erw. Mix\, Budget\, Ums
+ etzung\, Kontrolle)\n\nSo lernen: 333 Fragen: Frage in Teil I lesen\, Antw
+ ort laut oder stichwortartig selbst formulieren\, erst dann in Teil II ver
+ gleichen. Falsche oder unsichere Fragen-Nummern notieren (Fehlerliste) –
+  die kommen im 2. Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLernziel n
+ achher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:ea3304d95f49f6d3b4b17b055455131a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270108T083000
+DTEND;TZID=Europe/Zurich:20270108T093000
+SUMMARY:Lernen krw: 0-Serie Teil 1
+DESCRIPTION:0-Serie Teil 1\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst
+  ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste s
+ chreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bl
+ ock einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc2719483916f8ff32705514cf74daab@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270108T094500
+DTEND;TZID=Europe/Zurich:20270108T104500
+SUMMARY:Lernen krw: 0-Serie Teil 2 + Korrektur
+DESCRIPTION:0-Serie Teil 2 + Korrektur\n\nSo lernen: Aufgaben aus dem Leimg
+ ruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die F
+ ehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruc
+ k-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:5e2524c9959c430cb61034a80b6c2e59@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270108T110000
+DTEND;TZID=Europe/Zurich:20270108T120000
+SUMMARY:Lernen wmt: Methoden an Fallbeispiel anwenden
+DESCRIPTION:Methoden an Fallbeispiel anwenden\n\nSo lernen: Methode an eine
+ m eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Pr
+ üfung der LE.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c20c5582dad84d45159a0196d6a884@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270108T133000
+DTEND;TZID=Europe/Zurich:20270108T143000
+SUMMARY:Lernen krecht: Legal Audit & LRM wiederholen
+DESCRIPTION:Legal Audit & LRM wiederholen\n\nSo lernen: Fall lösen mit OR/
+ ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem 
+ Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-S
+ chicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:46eb6fdd37b43d5a7f8454177a35d1d6@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270108T144500
+DTEND;TZID=Europe/Zurich:20270108T154500
+SUMMARY:Lernen Flex: Flex-Block
+DESCRIPTION:Flex-Block\n\nSo lernen: Flex-Block: Fach mit dem grössten Rü
+ ckstand laut Tracker (Empfehlung oben im Tracker).\n\nLernziel nachher im 
+ Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c76e46ec160a98e93d66c873299c127f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270111T083000
+DTEND;TZID=Europe/Zurich:20270111T093000
+SUMMARY:Lernen krw: Prüfungssimulation 90 Min. (Teil 1)
+DESCRIPTION:Prüfungssimulation 90 Min. (Teil 1)\n\nSo lernen: Aufgaben aus
+  dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehle
+ r in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Be
+ i Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:90a69aaa484bb2cd144a1002be1627b8@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270111T094500
+DTEND;TZID=Europe/Zurich:20270111T104500
+SUMMARY:Lernen krw: Prüfungssimulation (Teil 2)
+DESCRIPTION:Prüfungssimulation (Teil 2)\n\nSo lernen: Aufgaben aus dem Lei
+ mgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die
+  Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtr
+ uck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:91903ba376605f43733d7038b6cf9e43@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270111T110000
+DTEND;TZID=Europe/Zurich:20270111T120000
+SUMMARY:Lernen kbwl: Formative Semesterprüfung Teil 1
+DESCRIPTION:Formative Semesterprüfung Teil 1\n\nSo lernen: Aufgaben/format
+ ive Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Kartei
+ karten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:28cc501296ac684dcafd8231ebf15e78@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270111T133000
+DTEND;TZID=Europe/Zurich:20270111T143000
+SUMMARY:Lernen infgl: Mischserie alle Themen
+DESCRIPTION:Mischserie alle Themen\n\nSo lernen: Kurzes Erklärvideo\, dann
+  Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgab
+ en_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sc
+ hicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a17623a324b7234fb8e3c2c5c8841f49@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270111T144500
+DTEND;TZID=Europe/Zurich:20270111T154500
+SUMMARY:Lernen mkt: 2. Durchgang: markierte Fehlerfragen Kap. 1–6
+DESCRIPTION:2. Durchgang: markierte Fehlerfragen Kap. 1–6\n\nSo lernen: 3
+ 33 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbst
+  formulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere Fr
+ agen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder.
+  Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Food
+ truck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee1f096608b30b284f99851e35385e2@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270112T083000
+DTEND;TZID=Europe/Zurich:20270112T093000
+SUMMARY:Lernen krw: Fehler aus Simulation aufarbeiten
+DESCRIPTION:Fehler aus Simulation aufarbeiten\n\nSo lernen: Aufgaben aus de
+ m Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler i
+ n die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:b450d6269b39fd412dc778ae16230cd7@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270112T094500
+DTEND;TZID=Europe/Zurich:20270112T104500
+SUMMARY:Lernen krw: Kalkulation & Warenhandel nochmals
+DESCRIPTION:Kalkulation & Warenhandel nochmals\n\nSo lernen: Aufgaben aus d
+ em Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler 
+ in die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei 
+ Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0821f7ca5cb5ca86d6f9d9bc41707bcd@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270112T110000
+DTEND;TZID=Europe/Zurich:20270112T120000
+SUMMARY:Lernen kbwl: Formative Semesterprüfung Teil 2 + Korrektur
+DESCRIPTION:Formative Semesterprüfung Teil 2 + Korrektur\n\nSo lernen: Auf
+ gaben/formative Tests lösen\; Begriffe laut in eigenen Worten erklären (
+ keine Karteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck
+ -Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b8c54c9491bd1f95c7429b8979e8cd0@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270112T133000
+DTEND;TZID=Europe/Zurich:20270112T143000
+SUMMARY:Lernen krecht: Gesamtrepetition Teil 1
+DESCRIPTION:Gesamtrepetition Teil 1\n\nSo lernen: Fall lösen mit OR/ZGB in
+  der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unterr
+ icht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht
+  Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c2314af2bbbab3a14809ddeee5e3699@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270112T144500
+DTEND;TZID=Europe/Zurich:20270112T154500
+SUMMARY:Lernen wmt: Formative Prüfungen wiederholen
+DESCRIPTION:Formative Prüfungen wiederholen\n\nSo lernen: Methode an einem
+  eigenen Beispiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Pr
+ üfung der LE.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schic
+ ht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3db34405a5999ee8c361cb3008300445@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270112T160000
+DTEND;TZID=Europe/Zurich:20270112T170000
+SUMMARY:Lernen mkt: 2. Durchgang: markierte Fehlerfragen Kap. 7–14
+DESCRIPTION:2. Durchgang: markierte Fehlerfragen Kap. 7–14\n\nSo lernen: 
+ 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbs
+ t formulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere F
+ ragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder
+ . Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Foo
+ dtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:b984b0dfed31725303b40424707f7b5b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270113T083000
+DTEND;TZID=Europe/Zurich:20270113T093000
+SUMMARY:Lernen kbwl: Kennzahlen-Mix mit Formelsammlung
+DESCRIPTION:Kennzahlen-Mix mit Formelsammlung\n\nSo lernen: Aufgaben/format
+ ive Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Kartei
+ karten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c3035b8899b3a65cea3bcc07944f4ed8@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270113T094500
+DTEND;TZID=Europe/Zurich:20270113T104500
+SUMMARY:Lernen kbwl: Begriffe laut erklären
+DESCRIPTION:Begriffe laut erklären\n\nSo lernen: Aufgaben/formative Tests 
+ lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten).\n
+ \nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach
+  verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:597627c12610d065be466d924b4670fa@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270113T110000
+DTEND;TZID=Europe/Zurich:20270113T120000
+SUMMARY:Lernen infgl: 2. formative Prüfung wiederholen
+DESCRIPTION:2. formative Prüfung wiederholen\n\nSo lernen: Kurzes Erklärv
+ ideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informati
+ k ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:7900e8ec899a0286f2fc31b7cd6d99ee@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270113T133000
+DTEND;TZID=Europe/Zurich:20270113T143000
+SUMMARY:Lernen infgl: Netzwerke-Mix
+DESCRIPTION:Netzwerke-Mix\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgaben
+  rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen_T
+ hi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c332a4d14d380708732c203918a1ee74@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270113T144500
+DTEND;TZID=Europe/Zurich:20270113T154500
+SUMMARY:Lernen beor: Controlling\, QM + Probeprüfung wiederholen
+DESCRIPTION:Controlling\, QM + Probeprüfung wiederholen\n\nSo lernen: Kapi
+ tel der Zusammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/F
+ oodtruck) verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fd2d2de76e3f6698e22b133d7a9b700@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270114T083000
+DTEND;TZID=Europe/Zurich:20270114T093000
+SUMMARY:Lernen krw: Gesamtserie 2
+DESCRIPTION:Gesamtserie 2\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst 
+ ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste sc
+ hreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Blo
+ ck einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:bbe79b66da96823678925b29e182f644@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270114T094500
+DTEND;TZID=Europe/Zurich:20270114T104500
+SUMMARY:Lernen krw: Schwächen aus Fehlerliste
+DESCRIPTION:Schwächen aus Fehlerliste\n\nSo lernen: Aufgaben aus dem Leimg
+ ruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die F
+ ehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruc
+ k-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9cc2e659443352fddc328ed0b93818d@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270114T110000
+DTEND;TZID=Europe/Zurich:20270114T120000
+SUMMARY:Lernen infgl: HTML\, DB\, Python
+DESCRIPTION:HTML\, DB\, Python\n\nSo lernen: Kurzes Erklärvideo\, dann Auf
+ gaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_A
+ len_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schich
+ t Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:35c4b1e0b801a8c9c00618b87c76729c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270114T133000
+DTEND;TZID=Europe/Zurich:20270114T143000
+SUMMARY:Lernen krecht: Gesamtrepetition Teil 2
+DESCRIPTION:Gesamtrepetition Teil 2\n\nSo lernen: Fall lösen mit OR/ZGB in
+  der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unterr
+ icht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht
+  Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:77e5ec415c53917b916f7f45f4e2354e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270114T144500
+DTEND;TZID=Europe/Zurich:20270114T154500
+SUMMARY:Lernen mkt: Lehrbuch Schürmann: Lücken aus Fehlerfragen nachlesen
+DESCRIPTION:Lehrbuch Schürmann: Lücken aus Fehlerfragen nachlesen\n\nSo l
+ ernen: 333 Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortarti
+ g selbst formulieren\, erst dann in Teil II vergleichen. Falsche oder unsi
+ chere Fragen-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang
+  wieder. Ca. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. 
+ Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:820fabbcc2fad1761a739a53428b1945@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270115T083000
+DTEND;TZID=Europe/Zurich:20270115T093000
+SUMMARY:Lernen krw: Letzte Mischserie unter Zeitdruck
+DESCRIPTION:Letzte Mischserie unter Zeitdruck\n\nSo lernen: Aufgaben aus de
+ m Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler i
+ n die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb59b17f5656b54cf87ff4563e2e3eaf@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270115T094500
+DTEND;TZID=Europe/Zurich:20270115T104500
+SUMMARY:Lernen krw: Fehlerliste durchgehen
+DESCRIPTION:Fehlerliste durchgehen\n\nSo lernen: Aufgaben aus dem Leimgrube
+ r zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehle
+ rliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sc
+ hicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fd2362918f84e6bf8d5d2b69083227f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270115T110000
+DTEND;TZID=Europe/Zurich:20270115T120000
+SUMMARY:Lernen kbwl: Mix: Banken\, Versicherungen\, Steuern
+DESCRIPTION:Mix: Banken\, Versicherungen\, Steuern\n\nSo lernen: Aufgaben/f
+ ormative Tests lösen\; Begriffe laut in eigenen Worten erklären (keine K
+ arteikarten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schich
+ t Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:a12ffc923fcb148f95b2bc65a97b689e@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270115T133000
+DTEND;TZID=Europe/Zurich:20270115T143000
+SUMMARY:Lernen Flex: Flex-Block
+DESCRIPTION:Flex-Block\n\nSo lernen: Flex-Block: Fach mit dem grössten Rü
+ ckstand laut Tracker (Empfehlung oben im Tracker).\n\nLernziel nachher im 
+ Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc861643fe9fd2f2c18f35129e9ff6b1@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270115T144500
+DTEND;TZID=Europe/Zurich:20270115T154500
+SUMMARY:Lernen Flex: Flex-Block
+DESCRIPTION:Flex-Block\n\nSo lernen: Flex-Block: Fach mit dem grössten Rü
+ ckstand laut Tracker (Empfehlung oben im Tracker).\n\nLernziel nachher im 
+ Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:779503344d0f315272ed2c7df4f71eba@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270118T083000
+DTEND;TZID=Europe/Zurich:20270118T093000
+SUMMARY:Lernen krw: Fehlerliste kurz repetieren
+DESCRIPTION:Fehlerliste kurz repetieren\n\nSo lernen: Aufgaben aus dem Leim
+ gruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die 
+ Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei Foodtru
+ ck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3878c6e05c5591700aa879806c5896a2@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270118T094500
+DTEND;TZID=Europe/Zurich:20270118T104500
+SUMMARY:Lernen krw: Locker: Buchungssätze aufwärmen
+DESCRIPTION:Locker: Buchungssätze aufwärmen\n\nSo lernen: Aufgaben aus de
+ m Leimgruber zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler i
+ n die Fehlerliste schreiben.\n\nLernziel nachher im Tracker abhaken. Bei F
+ oodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa89bb6946650747f3c64889d3b7daad@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270119T083000
+DTEND;TZID=Europe/Zurich:20270119T093000
+SUMMARY:Lernen kbwl: Unternehmensmodell & Strategie
+DESCRIPTION:Unternehmensmodell & Strategie\n\nSo lernen: Aufgaben/formative
+  Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikar
+ ten).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block 
+ einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:acbd14789c9433f71ff31d1954016cfd@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270119T094500
+DTEND;TZID=Europe/Zurich:20270119T104500
+SUMMARY:Lernen kbwl: Kennzahlen
+DESCRIPTION:Kennzahlen\n\nSo lernen: Aufgaben/formative Tests lösen\; Begr
+ iffe laut in eigenen Worten erklären (keine Karteikarten).\n\nLernziel na
+ chher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:d9010d7257764ead12b63ad4662c3118@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270119T110000
+DTEND;TZID=Europe/Zurich:20270119T120000
+SUMMARY:Lernen kbwl: Banken\, Wertpapiere\, Börse
+DESCRIPTION:Banken\, Wertpapiere\, Börse\n\nSo lernen: Aufgaben/formative 
+ Tests lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikart
+ en).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block e
+ infach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:763908ea070085969a118c27b6df70ba@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270119T133000
+DTEND;TZID=Europe/Zurich:20270119T143000
+SUMMARY:Lernen kbwl: Versicherungen & Steuern
+DESCRIPTION:Versicherungen & Steuern\n\nSo lernen: Aufgaben/formative Tests
+  lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten).\
+ n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfac
+ h verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0d10b569af878350d02e84c40f6604f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270119T144500
+DTEND;TZID=Europe/Zurich:20270119T154500
+SUMMARY:Lernen kbwl: Begriffsliste & Gesamtcheck
+DESCRIPTION:Begriffsliste & Gesamtcheck\n\nSo lernen: Aufgaben/formative Te
+ sts lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten
+ ).\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block ein
+ fach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef52ee94b43017eccf2b91c8b263b8b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270120T083000
+DTEND;TZID=Europe/Zurich:20270120T093000
+SUMMARY:Lernen kbwl: Kennzahlen kurz
+DESCRIPTION:Kennzahlen kurz\n\nSo lernen: Aufgaben/formative Tests lösen\;
+  Begriffe laut in eigenen Worten erklären (keine Karteikarten).\n\nLernzi
+ el nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschi
+ eben.
+END:VEVENT
+BEGIN:VEVENT
+UID:0b8c7042593f3d9b64709ee2f93dde67@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270120T094500
+DTEND;TZID=Europe/Zurich:20270120T104500
+SUMMARY:Lernen kbwl: Begriffe kurz
+DESCRIPTION:Begriffe kurz\n\nSo lernen: Aufgaben/formative Tests lösen\; B
+ egriffe laut in eigenen Worten erklären (keine Karteikarten).\n\nLernziel
+  nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschieb
+ en.
+END:VEVENT
+BEGIN:VEVENT
+UID:ed7187e27c259627f5bc279c556346cf@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270120T160000
+DTEND;TZID=Europe/Zurich:20270120T170000
+SUMMARY:Lernen infgl: Zahlensysteme aufwärmen (nach Prüfung)
+DESCRIPTION:Zahlensysteme aufwärmen (nach Prüfung)\n\nSo lernen: Kurzes E
+ rklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: In
+ formatik ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken
+ . Bei Foodtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3db62044c86d19cccf988bfee3f06a2a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270121T083000
+DTEND;TZID=Europe/Zurich:20270121T093000
+SUMMARY:Lernen infgl: Zahlensysteme & Codes
+DESCRIPTION:Zahlensysteme & Codes\n\nSo lernen: Kurzes Erklärvideo\, dann 
+ Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgabe
+ n_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Sch
+ icht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:86990ad927b629020f78782adecbb4fc@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270121T094500
+DTEND;TZID=Europe/Zurich:20270121T104500
+SUMMARY:Lernen infgl: Verschlüsselung\, HW/SW
+DESCRIPTION:Verschlüsselung\, HW/SW\n\nSo lernen: Kurzes Erklärvideo\, da
+ nn Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufg
+ aben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-
+ Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e4e43f0fbdb9de1861a24a097dad5c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270121T110000
+DTEND;TZID=Europe/Zurich:20270121T120000
+SUMMARY:Lernen infgl: Netzwerke & OSI
+DESCRIPTION:Netzwerke & OSI\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgab
+ en rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen
+ _Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht B
+ lock einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d331720e377d9093c2eb1378a6dc296@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270121T133000
+DTEND;TZID=Europe/Zurich:20270121T143000
+SUMMARY:Lernen infgl: Subnetting & Routing
+DESCRIPTION:Subnetting & Routing\n\nSo lernen: Kurzes Erklärvideo\, dann A
+ ufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben
+ _Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schi
+ cht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:74e24b570344f3bbcc9de390f0f6784f@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270121T144500
+DTEND;TZID=Europe/Zurich:20270121T154500
+SUMMARY:Lernen infgl: HTML\, DB\, Datenschutz\, Python
+DESCRIPTION:HTML\, DB\, Datenschutz\, Python\n\nSo lernen: Kurzes Erklärvi
+ deo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik
+  ZF Aufgaben_Alen_Thi + ZF.\n\nLernziel nachher im Tracker abhaken. Bei Fo
+ odtruck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9d85b2f18d1b8120f537a32d10895277@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270122T133000
+DTEND;TZID=Europe/Zurich:20270122T143000
+SUMMARY:Lernen wmt: LE02–08
+DESCRIPTION:LE02–08\n\nSo lernen: Methode an einem eigenen Beispiel durch
+ spielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE.\n\nLernzi
+ el nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschi
+ eben.
+END:VEVENT
+BEGIN:VEVENT
+UID:1e62762a1beaaa48e3b496879621e99c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270122T144500
+DTEND;TZID=Europe/Zurich:20270122T154500
+SUMMARY:Lernen wmt: LE09–19
+DESCRIPTION:LE09–19\n\nSo lernen: Methode an einem eigenen Beispiel durch
+ spielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE.\n\nLernzi
+ el nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschi
+ eben.
+END:VEVENT
+BEGIN:VEVENT
+UID:001635d5864a3f2d59ef92f9b33d647a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270122T160000
+DTEND;TZID=Europe/Zurich:20270122T170000
+SUMMARY:Lernen wmt: Formative Prüfungen
+DESCRIPTION:Formative Prüfungen\n\nSo lernen: Methode an einem eigenen Bei
+ spiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE
+ .\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einf
+ ach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:ef392ac8fa613a9a2ef4f4f3cb203a7d@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270125T083000
+DTEND;TZID=Europe/Zurich:20270125T093000
+SUMMARY:Lernen wmt: Kurzrepetition
+DESCRIPTION:Kurzrepetition\n\nSo lernen: Methode an einem eigenen Beispiel 
+ durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE.\n\nL
+ ernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach ve
+ rschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:3015d7e2b4224795cda2e84cd9d8c68b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270125T133000
+DTEND;TZID=Europe/Zurich:20270125T143000
+SUMMARY:Lernen mkt: 3. Runde: Fragen\, die immer noch falsch sind
+DESCRIPTION:3. Runde: Fragen\, die immer noch falsch sind\n\nSo lernen: 333
+  Fragen: Frage in Teil I lesen\, Antwort laut oder stichwortartig selbst f
+ ormulieren\, erst dann in Teil II vergleichen. Falsche oder unsichere Frag
+ en-Nummern notieren (Fehlerliste) – die kommen im 2. Durchgang wieder. C
+ a. 30 Fragen pro Block.\n\nLernziel nachher im Tracker abhaken. Bei Foodtr
+ uck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:d86fae56eb8bf13d5fb8c598510e3997@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270125T144500
+DTEND;TZID=Europe/Zurich:20270125T154500
+SUMMARY:Lernen mkt: Situationsanalyse & Strategie
+DESCRIPTION:Situationsanalyse & Strategie\n\nSo lernen: 333 Fragen: Frage i
+ n Teil I lesen\, Antwort laut oder stichwortartig selbst formulieren\, ers
+ t dann in Teil II vergleichen. Falsche oder unsichere Fragen-Nummern notie
+ ren (Fehlerliste) – die kommen im 2. Durchgang wieder. Ca. 30 Fragen pro
+  Block.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bloc
+ k einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f98e5b4d9bd7aa506760212c4fcc778@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270125T160000
+DTEND;TZID=Europe/Zurich:20270125T170000
+SUMMARY:Lernen mkt: Marketingmix 7P
+DESCRIPTION:Marketingmix 7P\n\nSo lernen: 333 Fragen: Frage in Teil I lesen
+ \, Antwort laut oder stichwortartig selbst formulieren\, erst dann in Teil
+  II vergleichen. Falsche oder unsichere Fragen-Nummern notieren (Fehlerlis
+ te) – die kommen im 2. Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLer
+ nziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach vers
+ chieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:6e42fb009889b7c307443a8554767b8a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270126T083000
+DTEND;TZID=Europe/Zurich:20270126T093000
+SUMMARY:Lernen mkt: Kurzcheck
+DESCRIPTION:Kurzcheck\n\nSo lernen: 333 Fragen: Frage in Teil I lesen\, Ant
+ wort laut oder stichwortartig selbst formulieren\, erst dann in Teil II ve
+ rgleichen. Falsche oder unsichere Fragen-Nummern notieren (Fehlerliste) 
+ – die kommen im 2. Durchgang wieder. Ca. 30 Fragen pro Block.\n\nLernzie
+ l nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfach verschie
+ ben.
+END:VEVENT
+BEGIN:VEVENT
+UID:117f67fe77c67fe715bf92f16bdfbd71@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270126T133000
+DTEND;TZID=Europe/Zurich:20270126T143000
+SUMMARY:Lernen krecht: Grundlagen\, Vertrag\, Haftpflicht
+DESCRIPTION:Grundlagen\, Vertrag\, Haftpflicht\n\nSo lernen: Fall lösen mi
+ t OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus
+  dem Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtr
+ uck-Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e9ba1a0763da93fc3e430e1a14ac7a2a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270126T144500
+DTEND;TZID=Europe/Zurich:20270126T154500
+SUMMARY:Lernen krecht: Gesellschaft\, IGR\, SchKG
+DESCRIPTION:Gesellschaft\, IGR\, SchKG\n\nSo lernen: Fall lösen mit OR/ZGB
+  in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unt
+ erricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schi
+ cht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:471066616a77bcfa57b15d8c67ce8229@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270126T160000
+DTEND;TZID=Europe/Zurich:20270126T170000
+SUMMARY:Lernen krecht: Steuer/SV\, DSG\, Audit\, LRM
+DESCRIPTION:Steuer/SV\, DSG\, Audit\, LRM\n\nSo lernen: Fall lösen mit OR/
+ ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem 
+ Unterricht nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-S
+ chicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e590072365362931f81cf69f529d2ffc@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270127T083000
+DTEND;TZID=Europe/Zurich:20270127T093000
+SUMMARY:Lernen krecht: Fälle mit OR lösen
+DESCRIPTION:Fälle mit OR lösen\n\nSo lernen: Fall lösen mit OR/ZGB in de
+ r Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unterrich
+ t nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bl
+ ock einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:9f6909e24a123377e13c22f645b35e87@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270127T094500
+DTEND;TZID=Europe/Zurich:20270127T104500
+SUMMARY:Lernen krecht: Quizfragen
+DESCRIPTION:Quizfragen\n\nSo lernen: Fall lösen mit OR/ZGB in der Hand\; Z
+ usammenfassung + Legal Controlling. Quizfragen aus dem Unterricht nutzen.\
+ n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfac
+ h verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:29f5a708f600c10123e96a2332725994@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270127T110000
+DTEND;TZID=Europe/Zurich:20270127T120000
+SUMMARY:Lernen krecht: Lücken schliessen
+DESCRIPTION:Lücken schliessen\n\nSo lernen: Fall lösen mit OR/ZGB in der 
+ Hand\; Zusammenfassung + Legal Controlling. Quizfragen aus dem Unterricht 
+ nutzen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Bloc
+ k einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd8a903415383fd82124e0d06dfb37b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270128T083000
+DTEND;TZID=Europe/Zurich:20270128T093000
+SUMMARY:Lernen beor: System\, Organisation\, Führung
+DESCRIPTION:System\, Organisation\, Führung\n\nSo lernen: Kapitel der Zusa
+ mmenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) ve
+ rknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht B
+ lock einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:e4397b8079f277a0a673dc13cd01030b@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270128T094500
+DTEND;TZID=Europe/Zurich:20270128T104500
+SUMMARY:Lernen beor: Absatz\, Entwicklung\, Arbeitsvorbereitung
+DESCRIPTION:Absatz\, Entwicklung\, Arbeitsvorbereitung\n\nSo lernen: Kapite
+ l der Zusammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foo
+ dtruck) verknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck
+ -Schicht Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:8d2ff957667e1bc2e1e8ba48e4bde935@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270128T110000
+DTEND;TZID=Europe/Zurich:20270128T120000
+SUMMARY:Lernen beor: Beschaffung\, Fertigung\, Montage
+DESCRIPTION:Beschaffung\, Fertigung\, Montage\n\nSo lernen: Kapitel der Zus
+ ammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) v
+ erknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht 
+ Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c5ae5913568d151d7bce11789f2921@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270128T133000
+DTEND;TZID=Europe/Zurich:20270128T143000
+SUMMARY:Lernen beor: Logistik\, CRM\, Controlling\, QM
+DESCRIPTION:Logistik\, CRM\, Controlling\, QM\n\nSo lernen: Kapitel der Zus
+ ammenfassung durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) v
+ erknüpfen.\n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht 
+ Block einfach verschieben.
+END:VEVENT
+BEGIN:VEVENT
+UID:80376be6b0bfcd38679495a495c25df3@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270128T144500
+DTEND;TZID=Europe/Zurich:20270128T154500
+SUMMARY:Lernen beor: Probeprüfung nochmals
+DESCRIPTION:Probeprüfung nochmals\n\nSo lernen: Kapitel der Zusammenfassun
+ g durchgehen und mit eigenem Beispiel (Hotelküche/Foodtruck) verknüpfen.
+ \n\nLernziel nachher im Tracker abhaken. Bei Foodtruck-Schicht Block einfa
+ ch verschieben.
+END:VEVENT
+END:VCALENDAR
