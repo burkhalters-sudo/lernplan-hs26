@@ -153,100 +153,105 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f321fc9829ac95adb404136a9ad7fede@lernplan-hs26
+UID:624cd945ba708453ed337473d53f20e5@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270118T153000
 DTEND;TZID=Europe/Zurich:20270118T170000
-SUMMARY:PRÜFUNG krw: Konvergenz Rechnungswesen
-DESCRIPTION:Schriftlich. Hilfsmittel: nicht angegeben – nachfragen. Prüf
- ungsplan ist Entwurf – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG krw: Konvergenz Rechnungswesen – Raum 3.-111
+DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: nicht angegeben – nach
+ fragen. Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive Vers
+ ion abwarten.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG krw: Konvergenz Rechnungswesen
+DESCRIPTION:PRÜFUNG krw: Konvergenz Rechnungswesen – Raum 3.-111
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:16848df4abe3c757389054474f728920@lernplan-hs26
+UID:528d2c601563651828deb87201e5251d@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270120T131500
 DTEND;TZID=Europe/Zurich:20270120T144500
-SUMMARY:PRÜFUNG kbwl: Konvergenz BWL
-DESCRIPTION:Schriftlich. Hilfsmittel: Formelsammlung (wird abgegeben). Prü
- fungsplan ist Entwurf – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG kbwl: Konvergenz BWL – Raum 1.045/47
+DESCRIPTION:Schriftlich. Raum 1.045/47. Hilfsmittel: Formelsammlung (wird a
+ bgegeben). Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive V
+ ersion abwarten.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG kbwl: Konvergenz BWL
+DESCRIPTION:PRÜFUNG kbwl: Konvergenz BWL – Raum 1.045/47
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e6348351a974a7f5d5bd485fb4dacb67@lernplan-hs26
+UID:3f8699cf826a4b9e2034cfe10e4d323d@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270122T091500
 DTEND;TZID=Europe/Zurich:20270122T104500
-SUMMARY:PRÜFUNG infgl: Informatik Grundlagen
-DESCRIPTION:Schriftlich. Hilfsmittel: nicht angegeben – nachfragen. Prüf
- ungsplan ist Entwurf – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG infgl: Informatik Grundlagen – Raum 6.-1D09/13
+DESCRIPTION:Schriftlich. Raum 6.-1D09/13. Hilfsmittel: nicht angegeben – 
+ nachfragen. Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive 
+ Version abwarten.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG infgl: Informatik Grundlagen
+DESCRIPTION:PRÜFUNG infgl: Informatik Grundlagen – Raum 6.-1D09/13
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3a6c21c6f4a6ef46182f152fea743ec0@lernplan-hs26
+UID:8c68b2f90f6d1ee069fb1a94b9224c83@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270125T103000
 DTEND;TZID=Europe/Zurich:20270125T120000
-SUMMARY:PRÜFUNG wmt: WING-Methoden
-DESCRIPTION:Schriftlich. Hilfsmittel: nicht angegeben. Prüfungsplan ist En
- twurf – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG wmt: WING-Methoden – Raum 3.-111
+DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: nicht angegeben. Prüfun
+ gsplan V2 (provisorisch\, Stand 27.10.) – definitive Version abwarten.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG wmt: WING-Methoden
+DESCRIPTION:PRÜFUNG wmt: WING-Methoden – Raum 3.-111
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:db1c43cc1df727e4aa34f8a45996bd58@lernplan-hs26
+UID:221a2dbd04f4e155053e52fb928394cb@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270126T101500
 DTEND;TZID=Europe/Zurich:20270126T111500
-SUMMARY:PRÜFUNG mkt: Marketing
-DESCRIPTION:Schriftlich. Hilfsmittel: keine (Closed Book). Prüfungsplan is
- t Entwurf – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG mkt: Marketing – Raum 3.-111
+DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: keine (Closed Book). Pr
+ üfungsplan V2 (provisorisch\, Stand 27.10.) – definitive Version abwart
+ en.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG mkt: Marketing
+DESCRIPTION:PRÜFUNG mkt: Marketing – Raum 3.-111
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5a754d31044fa60527e9e86e100b7a3b@lernplan-hs26
+UID:c34ec61b7a6e9de559cdb25ecddca165@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270127T161500
 DTEND;TZID=Europe/Zurich:20270127T174500
-SUMMARY:PRÜFUNG krecht: Konvergenz Recht
-DESCRIPTION:Schriftlich. Hilfsmittel: OR & ZGB. Prüfungsplan ist Entwurf 
- – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG krecht: Konvergenz Recht – Raum 1.045/47
+DESCRIPTION:Schriftlich. Raum 1.045/47. Hilfsmittel: OR & ZGB. Prüfungspla
+ n V2 (provisorisch\, Stand 27.10.) – definitive Version abwarten.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG krecht: Konvergenz Recht
+DESCRIPTION:PRÜFUNG krecht: Konvergenz Recht – Raum 1.045/47
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:74b0125d66b72eeaab2f6c7868f1983f@lernplan-hs26
+UID:47e8b1dc3c3e91f2c8af17f965dfea99@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20270129T081500
 DTEND;TZID=Europe/Zurich:20270129T094500
-SUMMARY:PRÜFUNG beor: Betriebsorganisation
-DESCRIPTION:Schriftlich. Hilfsmittel: einfacher Taschenrechner. Prüfungspl
- an ist Entwurf – Datum/Raum prüfen.
+SUMMARY:PRÜFUNG beor: Betriebsorganisation – Raum 3.-111
+DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: einfacher Taschenrechner
+ . Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive Version ab
+ warten.
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PRÜFUNG beor: Betriebsorganisation
+DESCRIPTION:PRÜFUNG beor: Betriebsorganisation – Raum 3.-111
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
