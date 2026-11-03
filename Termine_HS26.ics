@@ -159,8 +159,7 @@ DTSTART;TZID=Europe/Zurich:20270118T153000
 DTEND;TZID=Europe/Zurich:20270118T170000
 SUMMARY:PRÜFUNG krw: Konvergenz Rechnungswesen – Raum 3.-111
 DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: nicht angegeben – nach
- fragen. Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive Vers
- ion abwarten.
+ fragen. Prüfungsplan V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG krw: Konvergenz Rechnungswesen – Raum 3.-111
@@ -174,8 +173,7 @@ DTSTART;TZID=Europe/Zurich:20270120T131500
 DTEND;TZID=Europe/Zurich:20270120T144500
 SUMMARY:PRÜFUNG kbwl: Konvergenz BWL – Raum 1.045/47
 DESCRIPTION:Schriftlich. Raum 1.045/47. Hilfsmittel: Formelsammlung (wird a
- bgegeben). Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive V
- ersion abwarten.
+ bgegeben). Prüfungsplan V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG kbwl: Konvergenz BWL – Raum 1.045/47
@@ -189,8 +187,7 @@ DTSTART;TZID=Europe/Zurich:20270122T091500
 DTEND;TZID=Europe/Zurich:20270122T104500
 SUMMARY:PRÜFUNG infgl: Informatik Grundlagen – Raum 6.-1D09/13
 DESCRIPTION:Schriftlich. Raum 6.-1D09/13. Hilfsmittel: nicht angegeben – 
- nachfragen. Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive 
- Version abwarten.
+ nachfragen. Prüfungsplan V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG infgl: Informatik Grundlagen – Raum 6.-1D09/13
@@ -204,7 +201,7 @@ DTSTART;TZID=Europe/Zurich:20270125T103000
 DTEND;TZID=Europe/Zurich:20270125T120000
 SUMMARY:PRÜFUNG wmt: WING-Methoden – Raum 3.-111
 DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: nicht angegeben. Prüfun
- gsplan V2 (provisorisch\, Stand 27.10.) – definitive Version abwarten.
+ gsplan V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG wmt: WING-Methoden – Raum 3.-111
@@ -218,8 +215,7 @@ DTSTART;TZID=Europe/Zurich:20270126T101500
 DTEND;TZID=Europe/Zurich:20270126T111500
 SUMMARY:PRÜFUNG mkt: Marketing – Raum 3.-111
 DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: keine (Closed Book). Pr
- üfungsplan V2 (provisorisch\, Stand 27.10.) – definitive Version abwart
- en.
+ üfungsplan V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG mkt: Marketing – Raum 3.-111
@@ -233,7 +229,7 @@ DTSTART;TZID=Europe/Zurich:20270127T161500
 DTEND;TZID=Europe/Zurich:20270127T174500
 SUMMARY:PRÜFUNG krecht: Konvergenz Recht – Raum 1.045/47
 DESCRIPTION:Schriftlich. Raum 1.045/47. Hilfsmittel: OR & ZGB. Prüfungspla
- n V2 (provisorisch\, Stand 27.10.) – definitive Version abwarten.
+ n V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG krecht: Konvergenz Recht – Raum 1.045/47
@@ -247,8 +243,7 @@ DTSTART;TZID=Europe/Zurich:20270129T081500
 DTEND;TZID=Europe/Zurich:20270129T094500
 SUMMARY:PRÜFUNG beor: Betriebsorganisation – Raum 3.-111
 DESCRIPTION:Schriftlich. Raum 3.-111. Hilfsmittel: einfacher Taschenrechner
- . Prüfungsplan V2 (provisorisch\, Stand 27.10.) – definitive Version ab
- warten.
+ . Prüfungsplan V3 (definitiv\, Stand 03.11.2026).
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PRÜFUNG beor: Betriebsorganisation – Raum 3.-111
