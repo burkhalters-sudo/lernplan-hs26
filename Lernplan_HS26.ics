@@ -159,11 +159,11 @@ DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
  hreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:904a8991dd946433c59cf8ba567212a3@lernplan-hs26
+UID:61158c209578de22b5ba3b063395ee1f@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261115T140000
 DTEND;TZID=Europe/Zurich:20261115T150000
-SUMMARY:Lernen krw: BWL: formativen Test lösen und korrigieren
+SUMMARY:Lernen kbwl: BWL: formativen Test lösen und korrigieren
 DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
  tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
   stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
@@ -173,9 +173,8 @@ DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
  n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
  ☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 
  15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Tes
- t lösen und korrigieren\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst 
- ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste sc
- hreiben.
+ t lösen und korrigieren\n\nSo lernen: Aufgaben/formative Tests lösen\; B
+ egriffe laut in eigenen Worten erklären (keine Karteikarten).
 END:VEVENT
 BEGIN:VEVENT
 UID:77cb6aaad87751f4d03212997ad94e08@lernplan-hs26
