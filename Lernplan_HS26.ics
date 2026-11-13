@@ -98,6 +98,86 @@ DESCRIPTION:TAGESZIEL: Ich kann die drei Arten von Bankgeschäften erkläre
  en).
 END:VEVENT
 BEGIN:VEVENT
+UID:fcd2058046a22708e7e55941795a154a@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261115T090000
+DTEND;TZID=Europe/Zurich:20261115T100000
+SUMMARY:Lernen krw: Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenka
+ pital\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03\, 12.01
+ –12.04 · Quiz Fibu 1
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
+ tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
+  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
+ -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
+ al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03\, 12.01–1
+ 2.04 · Quiz Fibu 1\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 
+ 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Tes
+ t lösen und korrigieren\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst 
+ ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste sc
+ hreiben.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2197baf627d69c8ba7e52542b77067@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261115T101500
+DTEND;TZID=Europe/Zurich:20261115T111500
+SUMMARY:Lernen krw: Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 14.0
+ 1\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
+ tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
+  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
+ -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
+ al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03\, 12.01–1
+ 2.04 · Quiz Fibu 1\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 
+ 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Tes
+ t lösen und korrigieren\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst 
+ ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste sc
+ hreiben.
+END:VEVENT
+BEGIN:VEVENT
+UID:63c3374442b2a7b34b43910c481209d2@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261115T113000
+DTEND;TZID=Europe/Zurich:20261115T123000
+SUMMARY:Lernen krw: Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 1
+ 5.03\, 15.04\, 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
+ tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
+  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
+ -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
+ al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03\, 12.01–1
+ 2.04 · Quiz Fibu 1\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 
+ 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Tes
+ t lösen und korrigieren\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst 
+ ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste sc
+ hreiben.
+END:VEVENT
+BEGIN:VEVENT
+UID:904a8991dd946433c59cf8ba567212a3@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261115T140000
+DTEND;TZID=Europe/Zurich:20261115T150000
+SUMMARY:Lernen krw: BWL: formativen Test lösen und korrigieren
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
+ tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
+  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
+ -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
+ al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03\, 12.01–1
+ 2.04 · Quiz Fibu 1\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 
+ 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Tes
+ t lösen und korrigieren\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst 
+ ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste sc
+ hreiben.
+END:VEVENT
+BEGIN:VEVENT
 UID:77cb6aaad87751f4d03212997ad94e08@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261116T083000
@@ -143,51 +223,55 @@ DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
  fragen aus dem Unterricht nutzen.
 END:VEVENT
 BEGIN:VEVENT
-UID:f3e429d3f58cc126c193e1f7efb49b92@lernplan-hs26
+UID:45e0304790d2facfd567e469ae760026@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261117T083000
 DTEND;TZID=Europe/Zurich:20261117T093000
-SUMMARY:Lernen krw: Bilanz & Kontenregeln neu aufbauen (Soll/Haben\, Zunahm
- e/Abnahme)
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto als Aktiv\, Passiv\, Aufwand od
- er Ertrag einordnen und Buchungssätze bilden – auch wenn ein Konto die 
- Seite wechselt.\n\nTo-do heute:\n☐ Bilanz & Kontenregeln neu aufbauen (S
- oll/Haben\, Zunahme/Abnahme)\n☐ Formative Prüfung 1 ohne Lösung neu l
- ösen\n☐ Formative Prüfung 2 korrigieren\, Fehler in die Fehlerliste\; 
- Abendtest: 10 Buchungssätze\n\nSo lernen: Aufgaben aus dem Leimgruber zue
- rst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerlist
- e schreiben.
+SUMMARY:Lernen krw: Kap. 16 Erfolgsrechnung: Theorie + 16.01–16.05 · Kap
+ . 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 3
+DESCRIPTION:TAGESZIEL: Ich kann eine Erfolgsrechnung erstellen\, den doppel
+ ten Erfolgsnachweis erklären und eine Einzelunternehmung (Privat- und Eig
+ enkapitalkonto) abschliessen.\n\nTo-do heute:\n☐ Kap. 16 Erfolgsrechnung
+ : Theorie + 16.01–16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17
+ .03 · Quiz Fibu 3\n☐ Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.0
+ 2\, 21.04 · Quiz Fibu 4\n☐ Formative Prüfung 1 ohne Lösung neu lösen
+ \, dann korrigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe\n\
+ nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann 
+ korrigieren. Jeden Fehler in die Fehlerliste schreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:57dfaea43e2326a266c25a20775d7311@lernplan-hs26
+UID:69d9b76665591f993e3bc6d77f236aef@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261117T094500
 DTEND;TZID=Europe/Zurich:20261117T104500
-SUMMARY:Lernen krw: Formative Prüfung 1 ohne Lösung neu lösen
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto als Aktiv\, Passiv\, Aufwand od
- er Ertrag einordnen und Buchungssätze bilden – auch wenn ein Konto die 
- Seite wechselt.\n\nTo-do heute:\n☐ Bilanz & Kontenregeln neu aufbauen (S
- oll/Haben\, Zunahme/Abnahme)\n☐ Formative Prüfung 1 ohne Lösung neu l
- ösen\n☐ Formative Prüfung 2 korrigieren\, Fehler in die Fehlerliste\; 
- Abendtest: 10 Buchungssätze\n\nSo lernen: Aufgaben aus dem Leimgruber zue
- rst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerlist
- e schreiben.
+SUMMARY:Lernen krw: Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.02\, 2
+ 1.04 · Quiz Fibu 4
+DESCRIPTION:TAGESZIEL: Ich kann eine Erfolgsrechnung erstellen\, den doppel
+ ten Erfolgsnachweis erklären und eine Einzelunternehmung (Privat- und Eig
+ enkapitalkonto) abschliessen.\n\nTo-do heute:\n☐ Kap. 16 Erfolgsrechnung
+ : Theorie + 16.01–16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17
+ .03 · Quiz Fibu 3\n☐ Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.0
+ 2\, 21.04 · Quiz Fibu 4\n☐ Formative Prüfung 1 ohne Lösung neu lösen
+ \, dann korrigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe\n\
+ nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann 
+ korrigieren. Jeden Fehler in die Fehlerliste schreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:da3121a5b63cd0325226ca55c63d2107@lernplan-hs26
+UID:76b99ed24dbfda9d39c7bce7284174b6@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261117T140000
 DTEND;TZID=Europe/Zurich:20261117T150000
-SUMMARY:Lernen krw: Formative Prüfung 2 korrigieren\, Fehler in die Fehler
- liste\; Abendtest: 10 Buchungssätze
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto als Aktiv\, Passiv\, Aufwand od
- er Ertrag einordnen und Buchungssätze bilden – auch wenn ein Konto die 
- Seite wechselt.\n\nTo-do heute:\n☐ Bilanz & Kontenregeln neu aufbauen (S
- oll/Haben\, Zunahme/Abnahme)\n☐ Formative Prüfung 1 ohne Lösung neu l
- ösen\n☐ Formative Prüfung 2 korrigieren\, Fehler in die Fehlerliste\; 
- Abendtest: 10 Buchungssätze\n\nSo lernen: Aufgaben aus dem Leimgruber zue
- rst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerlist
- e schreiben.
+SUMMARY:Lernen krw: Formative Prüfung 1 ohne Lösung neu lösen\, dann kor
+ rigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe
+DESCRIPTION:TAGESZIEL: Ich kann eine Erfolgsrechnung erstellen\, den doppel
+ ten Erfolgsnachweis erklären und eine Einzelunternehmung (Privat- und Eig
+ enkapitalkonto) abschliessen.\n\nTo-do heute:\n☐ Kap. 16 Erfolgsrechnung
+ : Theorie + 16.01–16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17
+ .03 · Quiz Fibu 3\n☐ Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.0
+ 2\, 21.04 · Quiz Fibu 4\n☐ Formative Prüfung 1 ohne Lösung neu lösen
+ \, dann korrigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe\n\
+ nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann 
+ korrigieren. Jeden Fehler in die Fehlerliste schreiben.
 END:VEVENT
 BEGIN:VEVENT
 UID:1abb9900c64f8f7a5b7793d2254eab0f@lernplan-hs26
@@ -2001,6 +2085,23 @@ DESCRIPTION:To-do:\n☐ Kennzahlen (Liquidität\, Eigenfinanzierung\, Renta
  ionsgeschäft je mit Beispiel erklären + formativer Test
 END:VEVENT
 BEGIN:VEVENT
+UID:57e92f1738e949af288f055c033fc031@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann jedes Konto aus dem Konten
+ rahmen KMU als Aktiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo
+  Zu- und Abnahmen stehen\, und bilde einfache Buchungssätze. (Zum Schluss
+ : BWL-Test)
+DESCRIPTION:To-do:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eig
+ enkapital\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03\, 12
+ .01–12.04 · Quiz Fibu 1\n☐ Kap. 14 Konto & Kontenregeln: Theorie lese
+ n\, dann 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeich
+ nen\n☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.
+ 04\, 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formative
+ n Test lösen und korrigieren
+END:VEVENT
+BEGIN:VEVENT
 UID:e9318ceccf2c763a312afd79e331e0c2@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;VALUE=DATE:20261116
@@ -2013,17 +2114,18 @@ DESCRIPTION:To-do:\n☐ Grundlagen & juristische Methodik (LC S. 19–35\,
  Suchen finden
 END:VEVENT
 BEGIN:VEVENT
-UID:7ba5d3937343c6587b5e74b304931433@lernplan-hs26
+UID:55d95f9c850d087bd29c88f37523b652@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann jedes Konto als Aktiv\, Pa
- ssiv\, Aufwand oder Ertrag einordnen und Buchungssätze bilden – auch we
- nn ein Konto die Seite wechselt.
-DESCRIPTION:To-do:\n☐ Bilanz & Kontenregeln neu aufbauen (Soll/Haben\, Zu
- nahme/Abnahme)\n☐ Formative Prüfung 1 ohne Lösung neu lösen\n☐ Form
- ative Prüfung 2 korrigieren\, Fehler in die Fehlerliste\; Abendtest: 10 B
- uchungssätze
+SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann eine Erfolgsrechnung erste
+ llen\, den doppelten Erfolgsnachweis erklären und eine Einzelunternehmung
+  (Privat- und Eigenkapitalkonto) abschliessen.
+DESCRIPTION:To-do:\n☐ Kap. 16 Erfolgsrechnung: Theorie + 16.01–16.05 ·
+  Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 3\n☐ Kap.
+  21 Einzelunternehmung: Theorie + 21.01\, 21.02\, 21.04 · Quiz Fibu 4\n
+ ☐ Formative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren · Abe
+ ndtest: 10 Buchungssätze gemischt ohne Hilfe
 END:VEVENT
 BEGIN:VEVENT
 UID:64c08f6773038a97d51622ec9f6862d5@lernplan-hs26
