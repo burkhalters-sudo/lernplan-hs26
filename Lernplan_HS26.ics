@@ -98,200 +98,95 @@ DESCRIPTION:TAGESZIEL: Ich kann die drei Arten von Bankgeschäften erkläre
  en).
 END:VEVENT
 BEGIN:VEVENT
-UID:9188bd5753a707e06ee9f6f3c0a51675@lernplan-hs26
+UID:9184665ffd9c3eb5443e7ba2b290b43a@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261115T090000
 DTEND;TZID=Europe/Zurich:20261115T100000
 SUMMARY:Lernen krw: Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenka
- pital\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Quiz 
- Fibu 1 ✓ erledigt
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
- tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
-  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
- -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
- al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Quiz Fib
- u 1 ✓ erledigt\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 1
- 4.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n☐ K
- ap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05
-  · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Test lö
- sen und korrigieren\n☐ Aufgaben 12.01–12.04 (Bilanz) – abgesplittet 
- aus Block 1\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung 
- lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste schreiben.
+ pital\, Kontenrahmen KMU · Aufgaben 11.01\, 11.03 · Quiz Fibu 1 ✓ erle
+ digt
+DESCRIPTION:TAGESZIEL: Bilanz & Kontenrahmen (Kap. 11–13) – Rest auf Di
+  17.11. verschoben.\n\nTo-do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Ve
+ rmögen/Fremd-/Eigenkapital\, Kontenrahmen KMU · Aufgaben 11.01\, 11.03 
+ · Quiz Fibu 1 ✓ erledigt\n\nSo lernen: Aufgaben aus dem Leimgruber zuer
+ st ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste
+  schreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:bf2197baf627d69c8ba7e52542b77067@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261115T101500
-DTEND;TZID=Europe/Zurich:20261115T111500
-SUMMARY:Lernen krw: Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 14.0
- 1\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
- tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
-  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
- -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
- al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Quiz Fib
- u 1 ✓ erledigt\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 1
- 4.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n☐ K
- ap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05
-  · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Test lö
- sen und korrigieren\n☐ Aufgaben 12.01–12.04 (Bilanz) – abgesplittet 
- aus Block 1\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung 
- lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste schreiben.
-END:VEVENT
-BEGIN:VEVENT
-UID:63c3374442b2a7b34b43910c481209d2@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261115T113000
-DTEND;TZID=Europe/Zurich:20261115T123000
-SUMMARY:Lernen krw: Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 1
- 5.03\, 15.04\, 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
- tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
-  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
- -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
- al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Quiz Fib
- u 1 ✓ erledigt\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 1
- 4.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n☐ K
- ap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05
-  · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Test lö
- sen und korrigieren\n☐ Aufgaben 12.01–12.04 (Bilanz) – abgesplittet 
- aus Block 1\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung 
- lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste schreiben.
-END:VEVENT
-BEGIN:VEVENT
-UID:61158c209578de22b5ba3b063395ee1f@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261115T140000
-DTEND;TZID=Europe/Zurich:20261115T150000
-SUMMARY:Lernen kbwl: BWL: formativen Test lösen und korrigieren
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
- tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
-  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
- -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
- al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Quiz Fib
- u 1 ✓ erledigt\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 1
- 4.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n☐ K
- ap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05
-  · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Test lö
- sen und korrigieren\n☐ Aufgaben 12.01–12.04 (Bilanz) – abgesplittet 
- aus Block 1\n\nSo lernen: Aufgaben/formative Tests lösen\; Begriffe laut 
- in eigenen Worten erklären (keine Karteikarten).
-END:VEVENT
-BEGIN:VEVENT
-UID:4eedf4e1a0b7ec9c1702c58094867a82@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261115T151500
-DTEND;TZID=Europe/Zurich:20261115T161500
-SUMMARY:Lernen krw: Aufgaben 12.01–12.04 (Bilanz) – abgesplittet aus Bl
- ock 1
-DESCRIPTION:TAGESZIEL: Ich kann jedes Konto aus dem Kontenrahmen KMU als Ak
- tiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo Zu- und Abnahmen
-  stehen\, und bilde einfache Buchungssätze. (Zum Schluss: BWL-Test)\n\nTo
- -do heute:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eigenkapit
- al\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Quiz Fib
- u 1 ✓ erledigt\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\, dann 1
- 4.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n☐ K
- ap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05
-  · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen Test lö
- sen und korrigieren\n☐ Aufgaben 12.01–12.04 (Bilanz) – abgesplittet 
- aus Block 1\n\nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung 
- lösen\, dann korrigieren. Jeden Fehler in die Fehlerliste schreiben.
-END:VEVENT
-BEGIN:VEVENT
-UID:77cb6aaad87751f4d03212997ad94e08@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261116T083000
-DTEND;TZID=Europe/Zurich:20261116T093000
-SUMMARY:Lernen krecht: Grundlagen & juristische Methodik (LC S. 19–35\, 1
- 54–195)
-DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
- n einfachen Vertragsfall mit dem OR lösen.\n\nTo-do heute:\n☐ Grundlage
- n & juristische Methodik (LC S. 19–35\, 154–195)\n☐ Vertragsrecht: Z
- ustandekommen\, Mängel\, Erfüllung (LC S. 36–48)\n☐ Einen Fall/Quiz 
- mit OR lösen\; Abendtest: 3 Artikel ohne Suchen finden\n\nSo lernen: Fall
-  lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quiz
- fragen aus dem Unterricht nutzen.
-END:VEVENT
-BEGIN:VEVENT
-UID:7753ff58979aba5d753efa0b55bc02cc@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261116T094500
-DTEND;TZID=Europe/Zurich:20261116T104500
-SUMMARY:Lernen krecht: Vertragsrecht: Zustandekommen\, Mängel\, Erfüllung
-  (LC S. 36–48)
-DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
- n einfachen Vertragsfall mit dem OR lösen.\n\nTo-do heute:\n☐ Grundlage
- n & juristische Methodik (LC S. 19–35\, 154–195)\n☐ Vertragsrecht: Z
- ustandekommen\, Mängel\, Erfüllung (LC S. 36–48)\n☐ Einen Fall/Quiz 
- mit OR lösen\; Abendtest: 3 Artikel ohne Suchen finden\n\nSo lernen: Fall
-  lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quiz
- fragen aus dem Unterricht nutzen.
-END:VEVENT
-BEGIN:VEVENT
-UID:db787ac3324089cd83d03ed308d8a8d1@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;TZID=Europe/Zurich:20261116T140000
-DTEND;TZID=Europe/Zurich:20261116T150000
-SUMMARY:Lernen krecht: Einen Fall/Quiz mit OR lösen\; Abendtest: 3 Artikel
-  ohne Suchen finden
-DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
- n einfachen Vertragsfall mit dem OR lösen.\n\nTo-do heute:\n☐ Grundlage
- n & juristische Methodik (LC S. 19–35\, 154–195)\n☐ Vertragsrecht: Z
- ustandekommen\, Mängel\, Erfüllung (LC S. 36–48)\n☐ Einen Fall/Quiz 
- mit OR lösen\; Abendtest: 3 Artikel ohne Suchen finden\n\nSo lernen: Fall
-  lösen mit OR/ZGB in der Hand\; Zusammenfassung + Legal Controlling. Quiz
- fragen aus dem Unterricht nutzen.
-END:VEVENT
-BEGIN:VEVENT
-UID:45e0304790d2facfd567e469ae760026@lernplan-hs26
+UID:df3569cc4880af7785273c7d585600d3@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261117T083000
 DTEND;TZID=Europe/Zurich:20261117T093000
-SUMMARY:Lernen krw: Kap. 16 Erfolgsrechnung: Theorie + 16.01–16.05 · Kap
- . 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 3
-DESCRIPTION:TAGESZIEL: Ich kann eine Erfolgsrechnung erstellen\, den doppel
- ten Erfolgsnachweis erklären und eine Einzelunternehmung (Privat- und Eig
- enkapitalkonto) abschliessen.\n\nTo-do heute:\n☐ Kap. 16 Erfolgsrechnung
- : Theorie + 16.01–16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17
- .03 · Quiz Fibu 3\n☐ Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.0
- 2\, 21.04 · Quiz Fibu 4\n☐ Formative Prüfung 1 ohne Lösung neu lösen
- \, dann korrigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe\n\
- nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann 
- korrigieren. Jeden Fehler in die Fehlerliste schreiben.
+SUMMARY:Lernen krw: Kap. 14 Konto & Kontenregeln: Theorie\, dann 14.01\, 14
+ .04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto richtig einordnen\, Buchungssä
+ tze sicher bilden und eine Erfolgsrechnung mit doppeltem Erfolgsnachweis e
+ rstellen.\n\nTo-do heute:\n☐ Kap. 14 Konto & Kontenregeln: Theorie\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05 · Qui
+ z Fibu 2 · Fehler in die Fehlerliste\n☐ Kap. 16 Erfolgsrechnung: 16.01
+ –16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 
+ 3\n☐ Formative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren (Te
+ st\, ob die Grundlagen sitzen)\n\nSo lernen: Aufgaben aus dem Leimgruber z
+ uerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerli
+ ste schreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:69d9b76665591f993e3bc6d77f236aef@lernplan-hs26
+UID:9c1fe616f21958264a06254b2c1131e7@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261117T094500
 DTEND;TZID=Europe/Zurich:20261117T104500
-SUMMARY:Lernen krw: Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.02\, 2
- 1.04 · Quiz Fibu 4
-DESCRIPTION:TAGESZIEL: Ich kann eine Erfolgsrechnung erstellen\, den doppel
- ten Erfolgsnachweis erklären und eine Einzelunternehmung (Privat- und Eig
- enkapitalkonto) abschliessen.\n\nTo-do heute:\n☐ Kap. 16 Erfolgsrechnung
- : Theorie + 16.01–16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17
- .03 · Quiz Fibu 3\n☐ Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.0
- 2\, 21.04 · Quiz Fibu 4\n☐ Formative Prüfung 1 ohne Lösung neu lösen
- \, dann korrigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe\n\
- nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann 
- korrigieren. Jeden Fehler in die Fehlerliste schreiben.
+SUMMARY:Lernen krw: Kap. 15 Journal & Buchungssätze: 15.01\, 15.03\, 15.04
+ \, 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto richtig einordnen\, Buchungssä
+ tze sicher bilden und eine Erfolgsrechnung mit doppeltem Erfolgsnachweis e
+ rstellen.\n\nTo-do heute:\n☐ Kap. 14 Konto & Kontenregeln: Theorie\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05 · Qui
+ z Fibu 2 · Fehler in die Fehlerliste\n☐ Kap. 16 Erfolgsrechnung: 16.01
+ –16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 
+ 3\n☐ Formative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren (Te
+ st\, ob die Grundlagen sitzen)\n\nSo lernen: Aufgaben aus dem Leimgruber z
+ uerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerli
+ ste schreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:76b99ed24dbfda9d39c7bce7284174b6@lernplan-hs26
+UID:bef95948ed855e9e84d6096d37e2f7c2@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261117T110000
+DTEND;TZID=Europe/Zurich:20261117T120000
+SUMMARY:Lernen krw: Kap. 16 Erfolgsrechnung: 16.01–16.05 · Kap. 17 Doppe
+ lter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 3
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto richtig einordnen\, Buchungssä
+ tze sicher bilden und eine Erfolgsrechnung mit doppeltem Erfolgsnachweis e
+ rstellen.\n\nTo-do heute:\n☐ Kap. 14 Konto & Kontenregeln: Theorie\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05 · Qui
+ z Fibu 2 · Fehler in die Fehlerliste\n☐ Kap. 16 Erfolgsrechnung: 16.01
+ –16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 
+ 3\n☐ Formative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren (Te
+ st\, ob die Grundlagen sitzen)\n\nSo lernen: Aufgaben aus dem Leimgruber z
+ uerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerli
+ ste schreiben.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a1b79b074719cbd530f8fa597ed543c@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261117T140000
 DTEND;TZID=Europe/Zurich:20261117T150000
 SUMMARY:Lernen krw: Formative Prüfung 1 ohne Lösung neu lösen\, dann kor
- rigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe
-DESCRIPTION:TAGESZIEL: Ich kann eine Erfolgsrechnung erstellen\, den doppel
- ten Erfolgsnachweis erklären und eine Einzelunternehmung (Privat- und Eig
- enkapitalkonto) abschliessen.\n\nTo-do heute:\n☐ Kap. 16 Erfolgsrechnung
- : Theorie + 16.01–16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17
- .03 · Quiz Fibu 3\n☐ Kap. 21 Einzelunternehmung: Theorie + 21.01\, 21.0
- 2\, 21.04 · Quiz Fibu 4\n☐ Formative Prüfung 1 ohne Lösung neu lösen
- \, dann korrigieren · Abendtest: 10 Buchungssätze gemischt ohne Hilfe\n\
- nSo lernen: Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann 
- korrigieren. Jeden Fehler in die Fehlerliste schreiben.
+ rigieren (Test\, ob die Grundlagen sitzen)
+DESCRIPTION:TAGESZIEL: Ich kann jedes Konto richtig einordnen\, Buchungssä
+ tze sicher bilden und eine Erfolgsrechnung mit doppeltem Erfolgsnachweis e
+ rstellen.\n\nTo-do heute:\n☐ Kap. 14 Konto & Kontenregeln: Theorie\, dan
+ n 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n
+ ☐ Kap. 15 Journal & Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05 · Qui
+ z Fibu 2 · Fehler in die Fehlerliste\n☐ Kap. 16 Erfolgsrechnung: 16.01
+ –16.05 · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 
+ 3\n☐ Formative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren (Te
+ st\, ob die Grundlagen sitzen)\n\nSo lernen: Aufgaben aus dem Leimgruber z
+ uerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehlerli
+ ste schreiben.
 END:VEVENT
 BEGIN:VEVENT
 UID:1abb9900c64f8f7a5b7793d2254eab0f@lernplan-hs26
@@ -338,29 +233,32 @@ DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
  l: Informatik ZF Aufgaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
-UID:ece2c7e81963adf38eb0f0d83cab11e9@lernplan-hs26
+UID:e02a2d69e2d729298b3453f1375abd89@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261120T083000
 DTEND;TZID=Europe/Zurich:20261120T093000
-SUMMARY:Lernen wmt: Nutzwertanalyse (LE13) + IST-Aufnahme (LE09) am Beispie
- l Foodtruck
-DESCRIPTION:TAGESZIEL: Ich kann Nutzwertanalyse\, IST-Aufnahme und SWOT an 
- einem eigenen Beispiel anwenden.\n\nTo-do heute:\n☐ Nutzwertanalyse (LE1
- 3) + IST-Aufnahme (LE09) am Beispiel Foodtruck\n☐ SWOT/Benchmark (LE10) 
- + formative Prüfungen der LE\n\nSo lernen: Methode an einem eigenen Beisp
- iel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE.
+SUMMARY:Lernen krecht: Grundlagen & juristische Methodik (LC S. 19–35\, 1
+ 54–195)
+DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
+ n einfachen Vertragsfall mit dem OR lösen.\n\nTo-do heute:\n☐ Grundlage
+ n & juristische Methodik (LC S. 19–35\, 154–195)\n☐ Vertragsrecht: Z
+ ustandekommen\, Mängel\, Erfüllung (LC S. 36–48) + einen Fall mit OR l
+ ösen\n\nSo lernen: Fall lösen mit OR/ZGB in der Hand\; Zusammenfassung +
+  Legal Controlling. Quizfragen aus dem Unterricht nutzen.
 END:VEVENT
 BEGIN:VEVENT
-UID:7a8b252932eb512291d92c9e1b3dc445@lernplan-hs26
+UID:90dd5c18efa31b021e9f0c3e05d45c58@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261120T094500
 DTEND;TZID=Europe/Zurich:20261120T104500
-SUMMARY:Lernen wmt: SWOT/Benchmark (LE10) + formative Prüfungen der LE
-DESCRIPTION:TAGESZIEL: Ich kann Nutzwertanalyse\, IST-Aufnahme und SWOT an 
- einem eigenen Beispiel anwenden.\n\nTo-do heute:\n☐ Nutzwertanalyse (LE1
- 3) + IST-Aufnahme (LE09) am Beispiel Foodtruck\n☐ SWOT/Benchmark (LE10) 
- + formative Prüfungen der LE\n\nSo lernen: Methode an einem eigenen Beisp
- iel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der LE.
+SUMMARY:Lernen krecht: Vertragsrecht: Zustandekommen\, Mängel\, Erfüllung
+  (LC S. 36–48) + einen Fall mit OR lösen
+DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
+ n einfachen Vertragsfall mit dem OR lösen.\n\nTo-do heute:\n☐ Grundlage
+ n & juristische Methodik (LC S. 19–35\, 154–195)\n☐ Vertragsrecht: Z
+ ustandekommen\, Mängel\, Erfüllung (LC S. 36–48) + einen Fall mit OR l
+ ösen\n\nSo lernen: Fall lösen mit OR/ZGB in der Hand\; Zusammenfassung +
+  Legal Controlling. Quizfragen aus dem Unterricht nutzen.
 END:VEVENT
 BEGIN:VEVENT
 UID:5e0a2470e41653e1c316ad1abc26969b@lernplan-hs26
@@ -474,9 +372,11 @@ SUMMARY:Lernen krw: AG & GmbH: Gewinnverwendung\, Reserven
 DESCRIPTION:TAGESZIEL: Ich kann Abschlüsse bei AG/GmbH\, Abschreibungen un
  d Rechnungsabgrenzungen buchen.\n\nTo-do heute:\n☐ AG & GmbH: Gewinnverw
  endung\, Reserven\n☐ Abschreibungen & Verluste aus Forderungen\n☐ Rech
- nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n\nSo lernen: 
- Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren.
-  Jeden Fehler in die Fehlerliste schreiben.
+ nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n☐ Nachholen
+  vom 15./17.11.: Kap. 21 Einzelunternehmung (21.01\, 21.02\, 21.04) + Aufg
+ aben 12.01–12.04 · Quiz Fibu 4\n\nSo lernen: Aufgaben aus dem Leimgrube
+ r zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehle
+ rliste schreiben.
 END:VEVENT
 BEGIN:VEVENT
 UID:52c673760a75186f4f33494788e4475b@lernplan-hs26
@@ -487,9 +387,11 @@ SUMMARY:Lernen krw: Abschreibungen & Verluste aus Forderungen
 DESCRIPTION:TAGESZIEL: Ich kann Abschlüsse bei AG/GmbH\, Abschreibungen un
  d Rechnungsabgrenzungen buchen.\n\nTo-do heute:\n☐ AG & GmbH: Gewinnverw
  endung\, Reserven\n☐ Abschreibungen & Verluste aus Forderungen\n☐ Rech
- nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n\nSo lernen: 
- Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren.
-  Jeden Fehler in die Fehlerliste schreiben.
+ nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n☐ Nachholen
+  vom 15./17.11.: Kap. 21 Einzelunternehmung (21.01\, 21.02\, 21.04) + Aufg
+ aben 12.01–12.04 · Quiz Fibu 4\n\nSo lernen: Aufgaben aus dem Leimgrube
+ r zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehle
+ rliste schreiben.
 END:VEVENT
 BEGIN:VEVENT
 UID:d3fb4bb5b3b228ba9be85bafdbe2da5d@lernplan-hs26
@@ -501,9 +403,27 @@ SUMMARY:Lernen krw: Rechnungsabgrenzungen & Rückstellungen\; Abendtest: 5
 DESCRIPTION:TAGESZIEL: Ich kann Abschlüsse bei AG/GmbH\, Abschreibungen un
  d Rechnungsabgrenzungen buchen.\n\nTo-do heute:\n☐ AG & GmbH: Gewinnverw
  endung\, Reserven\n☐ Abschreibungen & Verluste aus Forderungen\n☐ Rech
- nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n\nSo lernen: 
- Aufgaben aus dem Leimgruber zuerst ohne Lösung lösen\, dann korrigieren.
-  Jeden Fehler in die Fehlerliste schreiben.
+ nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n☐ Nachholen
+  vom 15./17.11.: Kap. 21 Einzelunternehmung (21.01\, 21.02\, 21.04) + Aufg
+ aben 12.01–12.04 · Quiz Fibu 4\n\nSo lernen: Aufgaben aus dem Leimgrube
+ r zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehle
+ rliste schreiben.
+END:VEVENT
+BEGIN:VEVENT
+UID:26def6b9f16a72ee6923e96a15ffa9bd@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261201T151500
+DTEND;TZID=Europe/Zurich:20261201T161500
+SUMMARY:Lernen krw: Nachholen vom 15./17.11.: Kap. 21 Einzelunternehmung (2
+ 1.01\, 21.02\, 21.04) + Aufgaben 12.01–12.04 · Quiz Fibu 4
+DESCRIPTION:TAGESZIEL: Ich kann Abschlüsse bei AG/GmbH\, Abschreibungen un
+ d Rechnungsabgrenzungen buchen.\n\nTo-do heute:\n☐ AG & GmbH: Gewinnverw
+ endung\, Reserven\n☐ Abschreibungen & Verluste aus Forderungen\n☐ Rech
+ nungsabgrenzungen & Rückstellungen\; Abendtest: 5 Aufgaben\n☐ Nachholen
+  vom 15./17.11.: Kap. 21 Einzelunternehmung (21.01\, 21.02\, 21.04) + Aufg
+ aben 12.01–12.04 · Quiz Fibu 4\n\nSo lernen: Aufgaben aus dem Leimgrube
+ r zuerst ohne Lösung lösen\, dann korrigieren. Jeden Fehler in die Fehle
+ rliste schreiben.
 END:VEVENT
 BEGIN:VEVENT
 UID:b0571bd8b93215a75373476a623252e8@lernplan-hs26
@@ -839,9 +759,10 @@ DTEND;TZID=Europe/Zurich:20261218T093000
 SUMMARY:Lernen kbwl: Versicherungen & Risk Management
 DESCRIPTION:TAGESZIEL: Ich kann Versicherungsarten unterscheiden und Einkom
  mens-/Vermögenssteuer berechnen.\n\nTo-do heute:\n☐ Versicherungen & Ri
- sk Management\n☐ Steuern rechnen (Vorlesung von gestern nachbereiten)\n\
- nSo lernen: Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Wor
- ten erklären (keine Karteikarten).
+ sk Management\n☐ Steuern rechnen (Vorlesung von gestern nachbereiten)\n
+ ☐ Nachholen vom 15.11.: formativen BWL-Test lösen & korrigieren\n\nSo l
+ ernen: Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Worten e
+ rklären (keine Karteikarten).
 END:VEVENT
 BEGIN:VEVENT
 UID:13d743a941184743170ad6ac05a71db6@lernplan-hs26
@@ -851,9 +772,24 @@ DTEND;TZID=Europe/Zurich:20261218T104500
 SUMMARY:Lernen kbwl: Steuern rechnen (Vorlesung von gestern nachbereiten)
 DESCRIPTION:TAGESZIEL: Ich kann Versicherungsarten unterscheiden und Einkom
  mens-/Vermögenssteuer berechnen.\n\nTo-do heute:\n☐ Versicherungen & Ri
- sk Management\n☐ Steuern rechnen (Vorlesung von gestern nachbereiten)\n\
- nSo lernen: Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Wor
- ten erklären (keine Karteikarten).
+ sk Management\n☐ Steuern rechnen (Vorlesung von gestern nachbereiten)\n
+ ☐ Nachholen vom 15.11.: formativen BWL-Test lösen & korrigieren\n\nSo l
+ ernen: Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Worten e
+ rklären (keine Karteikarten).
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad59b9f222b4a4f1c3f828c4758b195@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261218T110000
+DTEND;TZID=Europe/Zurich:20261218T120000
+SUMMARY:Lernen kbwl: Nachholen vom 15.11.: formativen BWL-Test lösen & kor
+ rigieren
+DESCRIPTION:TAGESZIEL: Ich kann Versicherungsarten unterscheiden und Einkom
+ mens-/Vermögenssteuer berechnen.\n\nTo-do heute:\n☐ Versicherungen & Ri
+ sk Management\n☐ Steuern rechnen (Vorlesung von gestern nachbereiten)\n
+ ☐ Nachholen vom 15.11.: formativen BWL-Test lösen & korrigieren\n\nSo l
+ ernen: Aufgaben/formative Tests lösen\; Begriffe laut in eigenen Worten e
+ rklären (keine Karteikarten).
 END:VEVENT
 BEGIN:VEVENT
 UID:6ea3e86926fb86ee8bbf783d52d43e20@lernplan-hs26
@@ -2105,48 +2041,31 @@ DESCRIPTION:To-do:\n☐ Kennzahlen (Liquidität\, Eigenfinanzierung\, Renta
  ionsgeschäft je mit Beispiel erklären + formativer Test
 END:VEVENT
 BEGIN:VEVENT
-UID:57e92f1738e949af288f055c033fc031@lernplan-hs26
+UID:8906cd00685c7c4940e3702dccf31117@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann jedes Konto aus dem Konten
- rahmen KMU als Aktiv\, Passiv\, Aufwand oder Ertrag einordnen\, weiss\, wo
-  Zu- und Abnahmen stehen\, und bilde einfache Buchungssätze. (Zum Schluss
- : BWL-Test)
+SUMMARY:Ziel Konvergenz Rechnungswesen: Bilanz & Kontenrahmen (Kap. 11–13
+ ) – Rest auf Di 17.11. verschoben.
 DESCRIPTION:To-do:\n☐ Theorie Kap. 11–13: Bilanz\, Vermögen/Fremd-/Eig
- enkapital\, Kontenrahmen KMU (Folien krw_1) · Aufgaben 11.01\, 11.03 · Q
- uiz Fibu 1 ✓ erledigt\n☐ Kap. 14 Konto & Kontenregeln: Theorie lesen\,
-  dann 14.01\, 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen
- \n☐ Kap. 15 Journal & Hauptbuch\, Buchungssätze: 15.01\, 15.03\, 15.04\
- , 15.05 · Quiz Fibu 2 · Fehler in die Fehlerliste\n☐ BWL: formativen T
- est lösen und korrigieren\n☐ Aufgaben 12.01–12.04 (Bilanz) – abgesp
- littet aus Block 1
+ enkapital\, Kontenrahmen KMU · Aufgaben 11.01\, 11.03 · Quiz Fibu 1 ✓ 
+ erledigt
 END:VEVENT
 BEGIN:VEVENT
-UID:e9318ceccf2c763a312afd79e331e0c2@lernplan-hs26
-DTSTAMP:20261023T120000Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Ziel Konvergenz Recht: Ich kenne den Aufbau der Rechtsordnung und k
- ann einen einfachen Vertragsfall mit dem OR lösen.
-DESCRIPTION:To-do:\n☐ Grundlagen & juristische Methodik (LC S. 19–35\, 
- 154–195)\n☐ Vertragsrecht: Zustandekommen\, Mängel\, Erfüllung (LC S
- . 36–48)\n☐ Einen Fall/Quiz mit OR lösen\; Abendtest: 3 Artikel ohne 
- Suchen finden
-END:VEVENT
-BEGIN:VEVENT
-UID:55d95f9c850d087bd29c88f37523b652@lernplan-hs26
+UID:8096f88a97bce4976c7c2f60a86ad725@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann eine Erfolgsrechnung erste
- llen\, den doppelten Erfolgsnachweis erklären und eine Einzelunternehmung
-  (Privat- und Eigenkapitalkonto) abschliessen.
-DESCRIPTION:To-do:\n☐ Kap. 16 Erfolgsrechnung: Theorie + 16.01–16.05 ·
-  Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 3\n☐ Kap.
-  21 Einzelunternehmung: Theorie + 21.01\, 21.02\, 21.04 · Quiz Fibu 4\n
- ☐ Formative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren · Abe
- ndtest: 10 Buchungssätze gemischt ohne Hilfe
+SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann jedes Konto richtig einord
+ nen\, Buchungssätze sicher bilden und eine Erfolgsrechnung mit doppeltem 
+ Erfolgsnachweis erstellen.
+DESCRIPTION:To-do:\n☐ Kap. 14 Konto & Kontenregeln: Theorie\, dann 14.01\
+ , 14.04\, 14.05\, 14.06 · eigene Kontenregel-Tabelle zeichnen\n☐ Kap. 1
+ 5 Journal & Buchungssätze: 15.01\, 15.03\, 15.04\, 15.05 · Quiz Fibu 2 
+ · Fehler in die Fehlerliste\n☐ Kap. 16 Erfolgsrechnung: 16.01–16.05 
+ · Kap. 17 Doppelter Erfolgsnachweis: 17.01–17.03 · Quiz Fibu 3\n☐ Fo
+ rmative Prüfung 1 ohne Lösung neu lösen\, dann korrigieren (Test\, ob d
+ ie Grundlagen sitzen)
 END:VEVENT
 BEGIN:VEVENT
 UID:64c08f6773038a97d51622ec9f6862d5@lernplan-hs26
@@ -2161,14 +2080,15 @@ DESCRIPTION:To-do:\n☐ 5 Min. Binär-Repetition\, dann Subnetzmaske & CIDR
  n ohne Hilfe
 END:VEVENT
 BEGIN:VEVENT
-UID:7072e3882c4d51ad092ceeddcb5d5ad2@lernplan-hs26
+UID:e1af3237af6bf572335c3eebb23c56bb@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Ziel WING-Methoden: Ich kann Nutzwertanalyse\, IST-Aufnahme und SWO
- T an einem eigenen Beispiel anwenden.
-DESCRIPTION:To-do:\n☐ Nutzwertanalyse (LE13) + IST-Aufnahme (LE09) am Bei
- spiel Foodtruck\n☐ SWOT/Benchmark (LE10) + formative Prüfungen der LE
+SUMMARY:Ziel Konvergenz Recht: Ich kenne den Aufbau der Rechtsordnung und k
+ ann einen einfachen Vertragsfall mit dem OR lösen.
+DESCRIPTION:To-do:\n☐ Grundlagen & juristische Methodik (LC S. 19–35\, 
+ 154–195)\n☐ Vertragsrecht: Zustandekommen\, Mängel\, Erfüllung (LC S
+ . 36–48) + einen Fall mit OR lösen
 END:VEVENT
 BEGIN:VEVENT
 UID:ea0e7a109bc1d20bc8bdcd6fa07668e1@lernplan-hs26
@@ -2230,7 +2150,9 @@ SUMMARY:Ziel Konvergenz Rechnungswesen: Ich kann Abschlüsse bei AG/GmbH\,
  Abschreibungen und Rechnungsabgrenzungen buchen.
 DESCRIPTION:To-do:\n☐ AG & GmbH: Gewinnverwendung\, Reserven\n☐ Abschre
  ibungen & Verluste aus Forderungen\n☐ Rechnungsabgrenzungen & Rückstell
- ungen\; Abendtest: 5 Aufgaben
+ ungen\; Abendtest: 5 Aufgaben\n☐ Nachholen vom 15./17.11.: Kap. 21 Einze
+ lunternehmung (21.01\, 21.02\, 21.04) + Aufgaben 12.01–12.04 · Quiz Fib
+ u 4
 END:VEVENT
 BEGIN:VEVENT
 UID:066e2aebc889911e472bdabbb00f694f@lernplan-hs26
@@ -2333,6 +2255,7 @@ DTEND;VALUE=DATE:20261219
 SUMMARY:Ziel Konvergenz BWL: Ich kann Versicherungsarten unterscheiden und 
  Einkommens-/Vermögenssteuer berechnen.
 DESCRIPTION:To-do:\n☐ Versicherungen & Risk Management\n☐ Steuern rechn
- en (Vorlesung von gestern nachbereiten)
+ en (Vorlesung von gestern nachbereiten)\n☐ Nachholen vom 15.11.: formati
+ ven BWL-Test lösen & korrigieren
 END:VEVENT
 END:VCALENDAR
