@@ -189,48 +189,55 @@ DESCRIPTION:TAGESZIEL: Ich kann jedes Konto richtig einordnen\, Buchungssä
  ste schreiben.
 END:VEVENT
 BEGIN:VEVENT
-UID:1abb9900c64f8f7a5b7793d2254eab0f@lernplan-hs26
+UID:a7ea9ff3572dd44c6915a4153a0c63b8@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261118T083000
 DTEND;TZID=Europe/Zurich:20261118T093000
-SUMMARY:Lernen infgl: 5 Min. Binär-Repetition\, dann Subnetzmaske & CIDR (
- /24\, /26 …) mit Video verstehen
+SUMMARY:Lernen infgl: Ordner 06_05_IP-Subnetting: Folien 01_Grundlagen-IP-N
+ etze + 02_IP-Nummern durchgehen (bei Bedarf Video Tag 5)
 DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
- resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ 5 Min. 
- Binär-Repetition\, dann Subnetzmaske & CIDR (/24\, /26 …) mit Video ver
- stehen\n☐ 10 Subnetting-Aufgaben rechnen\n☐ OSI- und TCP/IP-Modell im 
- Überblick\; Abendtest: 3 Subnetting-Aufgaben ohne Hilfe\n\nSo lernen: Kur
- zes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Materia
- l: Informatik ZF Aufgaben_Alen_Thi + ZF.
+ resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ Ordner 
+ 06_05_IP-Subnetting: Folien 01_Grundlagen-IP-Netze + 02_IP-Nummern durchge
+ hen (bei Bedarf Video Tag 5)\n☐ uebungsaufgaben_IP_1 und IP_2 lösen\, e
+ rst danach mit den Lösungen vergleichen · Fehler notieren\n☐ uebungsau
+ fgaben_IP_3 als Abendtest ohne Hilfe · danach Ordner 07: OSI-Layer kurz 
+ überfliegen (Vorlesung heute Abend)\n\nSo lernen: Kurzes Erklärvideo\, d
+ ann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Auf
+ gaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
-UID:c8eff3a587c7d66e2772de4d0889a98f@lernplan-hs26
+UID:70ed70c7d02daa0b4b348ff19cee1b32@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261118T094500
 DTEND;TZID=Europe/Zurich:20261118T104500
-SUMMARY:Lernen infgl: 10 Subnetting-Aufgaben rechnen
+SUMMARY:Lernen infgl: uebungsaufgaben_IP_1 und IP_2 lösen\, erst danach mi
+ t den Lösungen vergleichen · Fehler notieren
 DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
- resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ 5 Min. 
- Binär-Repetition\, dann Subnetzmaske & CIDR (/24\, /26 …) mit Video ver
- stehen\n☐ 10 Subnetting-Aufgaben rechnen\n☐ OSI- und TCP/IP-Modell im 
- Überblick\; Abendtest: 3 Subnetting-Aufgaben ohne Hilfe\n\nSo lernen: Kur
- zes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Materia
- l: Informatik ZF Aufgaben_Alen_Thi + ZF.
+ resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ Ordner 
+ 06_05_IP-Subnetting: Folien 01_Grundlagen-IP-Netze + 02_IP-Nummern durchge
+ hen (bei Bedarf Video Tag 5)\n☐ uebungsaufgaben_IP_1 und IP_2 lösen\, e
+ rst danach mit den Lösungen vergleichen · Fehler notieren\n☐ uebungsau
+ fgaben_IP_3 als Abendtest ohne Hilfe · danach Ordner 07: OSI-Layer kurz 
+ überfliegen (Vorlesung heute Abend)\n\nSo lernen: Kurzes Erklärvideo\, d
+ ann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Auf
+ gaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
-UID:12f7182c2439bf26ef58923b38941d12@lernplan-hs26
+UID:7b19175a4b1503e945de92d246564397@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261118T140000
 DTEND;TZID=Europe/Zurich:20261118T150000
-SUMMARY:Lernen infgl: OSI- und TCP/IP-Modell im Überblick\; Abendtest: 3 S
- ubnetting-Aufgaben ohne Hilfe
+SUMMARY:Lernen infgl: uebungsaufgaben_IP_3 als Abendtest ohne Hilfe · dana
+ ch Ordner 07: OSI-Layer kurz überfliegen (Vorlesung heute Abend)
 DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
- resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ 5 Min. 
- Binär-Repetition\, dann Subnetzmaske & CIDR (/24\, /26 …) mit Video ver
- stehen\n☐ 10 Subnetting-Aufgaben rechnen\n☐ OSI- und TCP/IP-Modell im 
- Überblick\; Abendtest: 3 Subnetting-Aufgaben ohne Hilfe\n\nSo lernen: Kur
- zes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Materia
- l: Informatik ZF Aufgaben_Alen_Thi + ZF.
+ resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ Ordner 
+ 06_05_IP-Subnetting: Folien 01_Grundlagen-IP-Netze + 02_IP-Nummern durchge
+ hen (bei Bedarf Video Tag 5)\n☐ uebungsaufgaben_IP_1 und IP_2 lösen\, e
+ rst danach mit den Lösungen vergleichen · Fehler notieren\n☐ uebungsau
+ fgaben_IP_3 als Abendtest ohne Hilfe · danach Ordner 07: OSI-Layer kurz 
+ überfliegen (Vorlesung heute Abend)\n\nSo lernen: Kurzes Erklärvideo\, d
+ ann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Auf
+ gaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
 UID:e02a2d69e2d729298b3453f1375abd89@lernplan-hs26
@@ -2074,10 +2081,11 @@ DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Ziel Informatik Grundlagen: Ich kann zu einer IP-Adresse mit Subnet
  zmaske Netzadresse\, Broadcast und Anzahl Hosts bestimmen.
-DESCRIPTION:To-do:\n☐ 5 Min. Binär-Repetition\, dann Subnetzmaske & CIDR
-  (/24\, /26 …) mit Video verstehen\n☐ 10 Subnetting-Aufgaben rechnen\n
- ☐ OSI- und TCP/IP-Modell im Überblick\; Abendtest: 3 Subnetting-Aufgabe
- n ohne Hilfe
+DESCRIPTION:To-do:\n☐ Ordner 06_05_IP-Subnetting: Folien 01_Grundlagen-IP
+ -Netze + 02_IP-Nummern durchgehen (bei Bedarf Video Tag 5)\n☐ uebungsauf
+ gaben_IP_1 und IP_2 lösen\, erst danach mit den Lösungen vergleichen · 
+ Fehler notieren\n☐ uebungsaufgaben_IP_3 als Abendtest ohne Hilfe · dana
+ ch Ordner 07: OSI-Layer kurz überfliegen (Vorlesung heute Abend)
 END:VEVENT
 BEGIN:VEVENT
 UID:e1af3237af6bf572335c3eebb23c56bb@lernplan-hs26
