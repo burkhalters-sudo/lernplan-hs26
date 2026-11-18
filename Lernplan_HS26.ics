@@ -488,10 +488,12 @@ DTEND;TZID=Europe/Zurich:20261202T093000
 SUMMARY:Lernen infgl: Datenbanken & Normalisierung verstehen
 DESCRIPTION:TAGESZIEL: Mein Datenbanken-Teil ist fertig und ich kann Normal
  isierung erklären.\n\nTo-do heute:\n☐ Datenbanken & Normalisierung vers
- tehen\n☐ Folien für meinen Teil fertig\n☐ Verschlüsselung\, Hash\, S
- ignaturen – Grundidee\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgaben 
- rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen_Th
- i + ZF.
+ tehen\n☐ Folien für meinen Teil fertig\n☐ Subnetting-Repetition (Lüc
+ ke vom 18.11.): /CIDR → Subnetzmaske\, Blockgrösse\, Netz-/Broadcast-Ad
+ resse\, Hosts · uebungsaufgaben_IP_1–3 nochmals ohne Lösung · dazu 1
+ × Gleitkomma normalisieren (1\,xxx · 2ⁿ)\n\nSo lernen: Kurzes Erklärv
+ ideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informati
+ k ZF Aufgaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
 UID:5efff1511e52a69d0e463f16c5a82d3c@lernplan-hs26
@@ -501,23 +503,30 @@ DTEND;TZID=Europe/Zurich:20261202T104500
 SUMMARY:Lernen infgl: Folien für meinen Teil fertig
 DESCRIPTION:TAGESZIEL: Mein Datenbanken-Teil ist fertig und ich kann Normal
  isierung erklären.\n\nTo-do heute:\n☐ Datenbanken & Normalisierung vers
- tehen\n☐ Folien für meinen Teil fertig\n☐ Verschlüsselung\, Hash\, S
- ignaturen – Grundidee\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgaben 
- rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen_Th
- i + ZF.
+ tehen\n☐ Folien für meinen Teil fertig\n☐ Subnetting-Repetition (Lüc
+ ke vom 18.11.): /CIDR → Subnetzmaske\, Blockgrösse\, Netz-/Broadcast-Ad
+ resse\, Hosts · uebungsaufgaben_IP_1–3 nochmals ohne Lösung · dazu 1
+ × Gleitkomma normalisieren (1\,xxx · 2ⁿ)\n\nSo lernen: Kurzes Erklärv
+ ideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informati
+ k ZF Aufgaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
-UID:72ca823866f870a70b907215888b3a0b@lernplan-hs26
+UID:c01d783296154fae8cbf7f92f1e9b8b0@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261202T140000
 DTEND;TZID=Europe/Zurich:20261202T150000
-SUMMARY:Lernen infgl: Verschlüsselung\, Hash\, Signaturen – Grundidee
+SUMMARY:Lernen infgl: Subnetting-Repetition (Lücke vom 18.11.): /CIDR → 
+ Subnetzmaske\, Blockgrösse\, Netz-/Broadcast-Adresse\, Hosts · uebungsau
+ fgaben_IP_1–3 nochmals ohne Lösung · dazu 1× Gleitkomma normalisieren
+  (1\,xxx · 2ⁿ)
 DESCRIPTION:TAGESZIEL: Mein Datenbanken-Teil ist fertig und ich kann Normal
  isierung erklären.\n\nTo-do heute:\n☐ Datenbanken & Normalisierung vers
- tehen\n☐ Folien für meinen Teil fertig\n☐ Verschlüsselung\, Hash\, S
- ignaturen – Grundidee\n\nSo lernen: Kurzes Erklärvideo\, dann Aufgaben 
- rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufgaben_Alen_Th
- i + ZF.
+ tehen\n☐ Folien für meinen Teil fertig\n☐ Subnetting-Repetition (Lüc
+ ke vom 18.11.): /CIDR → Subnetzmaske\, Blockgrösse\, Netz-/Broadcast-Ad
+ resse\, Hosts · uebungsaufgaben_IP_1–3 nochmals ohne Lösung · dazu 1
+ × Gleitkomma normalisieren (1\,xxx · 2ⁿ)\n\nSo lernen: Kurzes Erklärv
+ ideo\, dann Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informati
+ k ZF Aufgaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
 UID:bd761a155e333c815d86d655433c50d8@lernplan-hs26
@@ -635,9 +644,10 @@ DTEND;TZID=Europe/Zurich:20261209T093000
 SUMMARY:Lernen infgl: Vortrag Datenbanken mit dem Team proben
 DESCRIPTION:TAGESZIEL: Ich halte heute Abend den Datenbanken-Vortrag sicher
  .\n\nTo-do heute:\n☐ Vortrag Datenbanken mit dem Team proben\n☐ Letzte
- r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick\n\n
- So lernen: Kurzes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe k
- lappt. Material: Informatik ZF Aufgaben_Alen_Thi + ZF.
+ r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick + 5
+  Subnetting-Aufgaben zum Aufwärmen\n\nSo lernen: Kurzes Erklärvideo\, da
+ nn Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufg
+ aben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
 UID:9ef94ed33c45e89191402a30436ef427@lernplan-hs26
@@ -647,21 +657,24 @@ DTEND;TZID=Europe/Zurich:20261209T104500
 SUMMARY:Lernen infgl: Letzter Check Folien & Technik
 DESCRIPTION:TAGESZIEL: Ich halte heute Abend den Datenbanken-Vortrag sicher
  .\n\nTo-do heute:\n☐ Vortrag Datenbanken mit dem Team proben\n☐ Letzte
- r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick\n\n
- So lernen: Kurzes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe k
- lappt. Material: Informatik ZF Aufgaben_Alen_Thi + ZF.
+ r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick + 5
+  Subnetting-Aufgaben zum Aufwärmen\n\nSo lernen: Kurzes Erklärvideo\, da
+ nn Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufg
+ aben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
-UID:2f2b3a4dea95db6f5c4f018638dd783d@lernplan-hs26
+UID:fa5d251968e1ca690cf81aca484ee9da@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261209T140000
 DTEND;TZID=Europe/Zurich:20261209T150000
-SUMMARY:Lernen infgl: Router\, Switch\, Routing – Überblick
+SUMMARY:Lernen infgl: Router\, Switch\, Routing – Überblick + 5 Subnetti
+ ng-Aufgaben zum Aufwärmen
 DESCRIPTION:TAGESZIEL: Ich halte heute Abend den Datenbanken-Vortrag sicher
  .\n\nTo-do heute:\n☐ Vortrag Datenbanken mit dem Team proben\n☐ Letzte
- r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick\n\n
- So lernen: Kurzes Erklärvideo\, dann Aufgaben rechnen bis es ohne Hilfe k
- lappt. Material: Informatik ZF Aufgaben_Alen_Thi + ZF.
+ r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick + 5
+  Subnetting-Aufgaben zum Aufwärmen\n\nSo lernen: Kurzes Erklärvideo\, da
+ nn Aufgaben rechnen bis es ohne Hilfe klappt. Material: Informatik ZF Aufg
+ aben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
 UID:c62e89675c86be780debb4d6bd94d25f@lernplan-hs26
@@ -2218,8 +2231,10 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Ziel Informatik Grundlagen: Mein Datenbanken-Teil ist fertig und ic
  h kann Normalisierung erklären.
 DESCRIPTION:To-do:\n☐ Datenbanken & Normalisierung verstehen\n☐ Folien 
- für meinen Teil fertig\n☐ Verschlüsselung\, Hash\, Signaturen – Grun
- didee
+ für meinen Teil fertig\n☐ Subnetting-Repetition (Lücke vom 18.11.): /C
+ IDR → Subnetzmaske\, Blockgrösse\, Netz-/Broadcast-Adresse\, Hosts · u
+ ebungsaufgaben_IP_1–3 nochmals ohne Lösung · dazu 1× Gleitkomma norma
+ lisieren (1\,xxx · 2ⁿ)
 END:VEVENT
 BEGIN:VEVENT
 UID:1e256d76e6b15b3ef6ffbe35ce5528fb@lernplan-hs26
@@ -2260,7 +2275,8 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Ziel Informatik Grundlagen: Ich halte heute Abend den Datenbanken-V
  ortrag sicher.
 DESCRIPTION:To-do:\n☐ Vortrag Datenbanken mit dem Team proben\n☐ Letzte
- r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick
+ r Check Folien & Technik\n☐ Router\, Switch\, Routing – Überblick + 5
+  Subnetting-Aufgaben zum Aufwärmen
 END:VEVENT
 BEGIN:VEVENT
 UID:1d31e2d8f43ab893e27eb04154dcf875@lernplan-hs26
