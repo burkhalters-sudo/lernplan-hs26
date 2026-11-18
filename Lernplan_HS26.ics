@@ -240,6 +240,38 @@ DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
  gaben_Alen_Thi + ZF.
 END:VEVENT
 BEGIN:VEVENT
+UID:c960048d79a010141f8f57ce1b7d92aa@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261118T160000
+DTEND;TZID=Europe/Zurich:20261118T165000
+SUMMARY:Lernen kbwl: Hausaufgabe auf Do 19.11.: Formativer Test Banken lös
+ en + mit Lösung korrigieren (Lehrbuch S. 178–195 als Nachschlag)
+DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
+ resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ Ordner 
+ 06_05_IP-Subnetting: Folien 01_Grundlagen-IP-Netze + 02_IP-Nummern durchge
+ hen (bei Bedarf Video Tag 5)\n☐ uebungsaufgaben_IP_1 und IP_2 lösen\, e
+ rst danach mit den Lösungen vergleichen · Fehler notieren\n☐ uebungsau
+ fgaben_IP_3 als Abendtest ohne Hilfe · danach Ordner 07: OSI-Layer kurz 
+ überfliegen (Vorlesung heute Abend)\n\nSo lernen: Aufgaben/formative Test
+ s lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten).
+END:VEVENT
+BEGIN:VEVENT
+UID:5c95f664b3e3e0e6d3bc2db125d7c74c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261118T170000
+DTEND;TZID=Europe/Zurich:20261118T175000
+SUMMARY:Lernen kbwl: Hausaufgabe auf Do 19.11.: Formativer Test Wertpapiere
+  lösen + korrigieren (Lehrbuch S. 218–225\, 236–245)
+DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
+ resse\, Broadcast und Anzahl Hosts bestimmen.\n\nTo-do heute:\n☐ Ordner 
+ 06_05_IP-Subnetting: Folien 01_Grundlagen-IP-Netze + 02_IP-Nummern durchge
+ hen (bei Bedarf Video Tag 5)\n☐ uebungsaufgaben_IP_1 und IP_2 lösen\, e
+ rst danach mit den Lösungen vergleichen · Fehler notieren\n☐ uebungsau
+ fgaben_IP_3 als Abendtest ohne Hilfe · danach Ordner 07: OSI-Layer kurz 
+ überfliegen (Vorlesung heute Abend)\n\nSo lernen: Aufgaben/formative Test
+ s lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten).
+END:VEVENT
+BEGIN:VEVENT
 UID:e02a2d69e2d729298b3453f1375abd89@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261120T083000
