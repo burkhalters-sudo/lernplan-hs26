@@ -300,6 +300,22 @@ DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
   Legal Controlling. Quizfragen aus dem Unterricht nutzen.
 END:VEVENT
 BEGIN:VEVENT
+UID:f4793c1427d72c7a1333203d23a3ffa6@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261120T110000
+DTEND;TZID=Europe/Zurich:20261120T120000
+SUMMARY:Lernen kbwl: Banken-Lücken aus formativem Test: Kreditsicherheiten
+  (Faustpfand/Lombard\, Belehnungsgrenzen\, einfache vs. Solidarbürgschaft
+ )\, Bankbilanz aktiv/passiv/indifferent\, Tragbarkeitsrechnung Hypothek no
+ chmals rechnen · Begriffsliste Banken_Wertpapiere
+DESCRIPTION:TAGESZIEL: Ich kenne den Aufbau der Rechtsordnung und kann eine
+ n einfachen Vertragsfall mit dem OR lösen.\n\nTo-do heute:\n☐ Grundlage
+ n & juristische Methodik (LC S. 19–35\, 154–195)\n☐ Vertragsrecht: Z
+ ustandekommen\, Mängel\, Erfüllung (LC S. 36–48) + einen Fall mit OR l
+ ösen\n\nSo lernen: Aufgaben/formative Tests lösen\; Begriffe laut in eig
+ enen Worten erklären (keine Karteikarten).
+END:VEVENT
+BEGIN:VEVENT
 UID:5e0a2470e41653e1c316ad1abc26969b@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261123T173000
