@@ -272,6 +272,42 @@ DESCRIPTION:TAGESZIEL: Ich kann zu einer IP-Adresse mit Subnetzmaske Netzad
  s lösen\; Begriffe laut in eigenen Worten erklären (keine Karteikarten).
 END:VEVENT
 BEGIN:VEVENT
+UID:a52e014ccd9e16103cca9e0ff19d534c@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261119T134000
+DTEND;TZID=Europe/Zurich:20261119T142000
+SUMMARY:Lernen wmt: LE13 Nutzwertanalyse: Folien wmt_LE13 durchgehen (Vorge
+ hen!)\, dann Foodtruck-Fall: 3 Angebote\, 4–5 Kriterien\, Gewichtung = 1
+ 00 %\, Bewertung 1–10\, Nutzwert berechnen
+DESCRIPTION:TAGESZIEL: Ich kann eine Nutzwertanalyse selbst aufbauen und be
+ i SWOT sicher zwischen internen und externen Faktoren unterscheiden.\n\nTo
+ -do heute:\n☐ LE13 Nutzwertanalyse: Folien wmt_LE13 durchgehen (Vorgehen
+ !)\, dann Foodtruck-Fall: 3 Angebote\, 4–5 Kriterien\, Gewichtung = 100 
+ %\, Bewertung 1–10\, Nutzwert berechnen\n☐ LE10 SWOT: Aufgabenblatt wm
+ t_LE10_Aufgabe\, Aufgabe 1 (Malerei Wiesel) – Stärken/Schwächen (inter
+ n) vs. Chancen/Gefahren (extern)\n\nSo lernen: Methode an einem eigenen Be
+ ispiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der L
+ E.
+END:VEVENT
+BEGIN:VEVENT
+UID:70ed0d855e82f053f49dbb6ba1c4e0a1@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261119T143000
+DTEND;TZID=Europe/Zurich:20261119T150000
+SUMMARY:Lernen wmt: LE10 SWOT: Aufgabenblatt wmt_LE10_Aufgabe\, Aufgabe 1 (
+ Malerei Wiesel) – Stärken/Schwächen (intern) vs. Chancen/Gefahren (ext
+ ern)
+DESCRIPTION:TAGESZIEL: Ich kann eine Nutzwertanalyse selbst aufbauen und be
+ i SWOT sicher zwischen internen und externen Faktoren unterscheiden.\n\nTo
+ -do heute:\n☐ LE13 Nutzwertanalyse: Folien wmt_LE13 durchgehen (Vorgehen
+ !)\, dann Foodtruck-Fall: 3 Angebote\, 4–5 Kriterien\, Gewichtung = 100 
+ %\, Bewertung 1–10\, Nutzwert berechnen\n☐ LE10 SWOT: Aufgabenblatt wm
+ t_LE10_Aufgabe\, Aufgabe 1 (Malerei Wiesel) – Stärken/Schwächen (inter
+ n) vs. Chancen/Gefahren (extern)\n\nSo lernen: Methode an einem eigenen Be
+ ispiel durchspielen (z.B. Foodtruck HERBY)\, dann formative Prüfung der L
+ E.
+END:VEVENT
+BEGIN:VEVENT
 UID:e02a2d69e2d729298b3453f1375abd89@lernplan-hs26
 DTSTAMP:20261023T120000Z
 DTSTART;TZID=Europe/Zurich:20261120T083000
@@ -2147,6 +2183,19 @@ DESCRIPTION:To-do:\n☐ Ordner 06_05_IP-Subnetting: Folien 01_Grundlagen-IP
  gaben_IP_1 und IP_2 lösen\, erst danach mit den Lösungen vergleichen · 
  Fehler notieren\n☐ uebungsaufgaben_IP_3 als Abendtest ohne Hilfe · dana
  ch Ordner 07: OSI-Layer kurz überfliegen (Vorlesung heute Abend)
+END:VEVENT
+BEGIN:VEVENT
+UID:797288f61542d5c0bee7fe2e4a6dd344@lernplan-hs26
+DTSTAMP:20261023T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Ziel WING-Methoden: Ich kann eine Nutzwertanalyse selbst aufbauen u
+ nd bei SWOT sicher zwischen internen und externen Faktoren unterscheiden.
+DESCRIPTION:To-do:\n☐ LE13 Nutzwertanalyse: Folien wmt_LE13 durchgehen (V
+ orgehen!)\, dann Foodtruck-Fall: 3 Angebote\, 4–5 Kriterien\, Gewichtung
+  = 100 %\, Bewertung 1–10\, Nutzwert berechnen\n☐ LE10 SWOT: Aufgabenb
+ latt wmt_LE10_Aufgabe\, Aufgabe 1 (Malerei Wiesel) – Stärken/Schwächen
+  (intern) vs. Chancen/Gefahren (extern)
 END:VEVENT
 BEGIN:VEVENT
 UID:e1af3237af6bf572335c3eebb23c56bb@lernplan-hs26
